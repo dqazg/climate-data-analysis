@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "7ab2f110-b250-11ef-bce7-a5dd39bd76e5",
+    "_type": "dashboard",
+    "_source": {
+      "title": "Analysis of the impact of the energy sector on air quality and human development",
+      "hits": 0,
+      "description": "",
+      "panelsJSON": "[{\"panelIndex\":\"1\",\"gridData\":{\"x\":0,\"y\":0,\"w\":6,\"h\":6,\"i\":\"1\"},\"id\":\"0d17a740-b24b-11ef-bce7-a5dd39bd76e5\",\"type\":\"visualization\",\"version\":\"6.2.4\"},{\"panelIndex\":\"2\",\"gridData\":{\"x\":6,\"y\":0,\"w\":6,\"h\":6,\"i\":\"2\"},\"id\":\"904e6490-b24c-11ef-bce7-a5dd39bd76e5\",\"type\":\"visualization\",\"version\":\"6.2.4\"},{\"panelIndex\":\"3\",\"gridData\":{\"x\":0,\"y\":6,\"w\":6,\"h\":7,\"i\":\"3\"},\"version\":\"6.2.4\",\"type\":\"visualization\",\"id\":\"f7948110-b22a-11ef-be2c-f5013dd2cd51\"},{\"panelIndex\":\"4\",\"gridData\":{\"x\":6,\"y\":6,\"w\":6,\"h\":3,\"i\":\"4\"},\"version\":\"6.2.4\",\"type\":\"visualization\",\"id\":\"225cfcc0-b24d-11ef-bce7-a5dd39bd76e5\"},{\"panelIndex\":\"5\",\"gridData\":{\"x\":6,\"y\":9,\"w\":6,\"h\":4,\"i\":\"5\"},\"version\":\"6.2.4\",\"type\":\"visualization\",\"id\":\"1ac2b630-b22f-11ef-be2c-f5013dd2cd51\"},{\"panelIndex\":\"6\",\"gridData\":{\"x\":0,\"y\":13,\"w\":6,\"h\":6,\"i\":\"6\"},\"version\":\"6.2.4\",\"type\":\"visualization\",\"id\":\"bee33b10-b22d-11ef-be2c-f5013dd2cd51\"},{\"gridData\":{\"w\":6,\"h\":3,\"x\":6,\"y\":13,\"i\":\"7\"},\"version\":\"6.2.4\",\"panelIndex\":\"7\",\"type\":\"visualization\",\"id\":\"5bc19af0-b24f-11ef-bce7-a5dd39bd76e5\"},{\"gridData\":{\"w\":6,\"h\":3,\"x\":6,\"y\":16,\"i\":\"8\"},\"version\":\"6.2.4\",\"panelIndex\":\"8\",\"type\":\"visualization\",\"id\":\"130f7c80-b229-11ef-be2c-f5013dd2cd51\"}]",
+      "optionsJSON": "{\"darkTheme\":false,\"hidePanelTitles\":false,\"useMargins\":true}",
+      "version": 1,
+      "timeRestore": false,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"query\":{\"language\":\"lucene\",\"query\":\"\"},\"filter\":[],\"highlightAll\":true,\"version\":true}"
+      }
+    }
+  }
+]

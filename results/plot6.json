@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "225cfcc0-b24d-11ef-bce7-a5dd39bd76e5",
+    "_type": "visualization",
+    "_source": {
+      "title": "Maximum AQI value (top 8 countries + total value)",
+      "visState": "{\"title\":\"Maximum AQI value (top 8 countries + total value)\",\"type\":\"metric\",\"params\":{\"addTooltip\":true,\"addLegend\":false,\"type\":\"metric\",\"metric\":{\"percentageMode\":false,\"useRanges\":false,\"colorSchema\":\"Green to Red\",\"metricColorMode\":\"None\",\"colorsRange\":[{\"from\":0,\"to\":10000}],\"labels\":{\"show\":true},\"invertColors\":false,\"style\":{\"bgFill\":\"#000\",\"bgColor\":false,\"labelColor\":false,\"subText\":\"\",\"fontSize\":120}}},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"max\",\"schema\":\"metric\",\"params\":{\"field\":\"AQI Value\",\"customLabel\":\"max AQI value\"}},{\"id\":\"2\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"group\",\"params\":{\"field\":\"Country.keyword\",\"otherBucket\":true,\"otherBucketLabel\":\"world\",\"missingBucket\":false,\"missingBucketLabel\":\"Missing\",\"size\":8,\"order\":\"desc\",\"orderBy\":\"1\",\"customLabel\":\"\"}}]}",
+      "uiStateJSON": "{}",
+      "description": "",
+      "version": 1,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"index\":\"1f8b6d90-b24a-11ef-bce7-a5dd39bd76e5\",\"filter\":[],\"query\":{\"query\":\"\",\"language\":\"lucene\"}}"
+      }
+    }
+  }
+]

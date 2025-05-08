@@ -1,0 +1,26 @@
+- pipeline.id: powerplants-pipeline
+  path.config: "/usr/share/logstash/pipeline/logstash_1.conf"
+  
+- pipeline.id: air-quality-value-pipeline
+  path.config: "/usr/share/logstash/pipeline/logstash_2.conf"
+  
+- pipeline.id: air-quality-country-pipeline
+  path.config: "/usr/share/logstash/pipeline/logstash_3.conf"
+
+- pipeline.id: air-quality-date-pipeline
+  path.config: "/usr/share/logstash/pipeline/logstash_4.conf"
+  
+- pipeline.id: hdi-co2-pipeline
+  path.config: "/usr/share/logstash/pipeline/logstash_5.conf"
+  
+- pipeline.id: hdi-gni-pipeline
+  path.config: "/usr/share/logstash/pipeline/logstash_6.conf"
+
+- pipeline.id: hdi-index-pipeline
+  path.config: "/usr/share/logstash/pipeline/logstash_7.conf"
+  
+- pipeline.id: hdi-life-exp-pipeline
+  path.config: "/usr/share/logstash/pipeline/logstash_8.conf"
+
+- pipeline.id: air-quality-pipeline
+  path.config: "/usr/share/logstash/pipeline/logstash_9.conf"

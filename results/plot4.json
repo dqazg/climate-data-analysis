@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "1ac2b630-b22f-11ef-be2c-f5013dd2cd51",
+    "_type": "visualization",
+    "_source": {
+      "title": "HDI over years by country (top 20 countries)",
+      "visState": "{\"title\":\"HDI over years by country (top 20 countries)\",\"type\":\"line\",\"params\":{\"type\":\"line\",\"grid\":{\"categoryLines\":false,\"style\":{\"color\":\"#eee\"}},\"categoryAxes\":[{\"id\":\"CategoryAxis-1\",\"type\":\"category\",\"position\":\"bottom\",\"show\":true,\"style\":{},\"scale\":{\"type\":\"linear\"},\"labels\":{\"show\":true,\"truncate\":100},\"title\":{}}],\"valueAxes\":[{\"id\":\"ValueAxis-1\",\"name\":\"LeftAxis-1\",\"type\":\"value\",\"position\":\"left\",\"show\":true,\"style\":{},\"scale\":{\"type\":\"linear\",\"mode\":\"normal\",\"defaultYExtents\":true},\"labels\":{\"show\":true,\"rotate\":0,\"filter\":false,\"truncate\":100},\"title\":{\"text\":\"human development index\"}}],\"seriesParams\":[{\"show\":\"true\",\"type\":\"line\",\"mode\":\"normal\",\"data\":{\"label\":\"human development index\",\"id\":\"1\"},\"valueAxis\":\"ValueAxis-1\",\"drawLinesBetweenPoints\":true,\"showCircles\":true}],\"addTooltip\":true,\"addLegend\":true,\"legendPosition\":\"right\",\"times\":[],\"addTimeMarker\":false},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"avg\",\"schema\":\"metric\",\"params\":{\"field\":\"HDI\",\"customLabel\":\"human development index\"}},{\"id\":\"2\",\"enabled\":true,\"type\":\"range\",\"schema\":\"segment\",\"params\":{\"field\":\"Year\",\"ranges\":[{\"from\":2005,\"to\":2006},{\"from\":2006,\"to\":2007},{\"from\":2007,\"to\":2008},{\"from\":2008,\"to\":2009},{\"from\":2009,\"to\":2010},{\"from\":2010,\"to\":2011},{\"from\":2011,\"to\":2012},{\"from\":2012,\"to\":2013},{\"from\":2013,\"to\":2014},{\"to\":2015,\"from\":2014},{\"to\":2016,\"from\":2015},{\"from\":2016,\"to\":2017},{\"from\":2017,\"to\":2018},{\"from\":2018,\"to\":2019},{\"from\":2019,\"to\":2020}],\"customLabel\":\"year\"}},{\"id\":\"3\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"group\",\"params\":{\"field\":\"Country.keyword\",\"otherBucket\":false,\"otherBucketLabel\":\"Other\",\"missingBucket\":false,\"missingBucketLabel\":\"Missing\",\"size\":20,\"order\":\"desc\",\"orderBy\":\"1\",\"customLabel\":\"\"}}]}",
+      "uiStateJSON": "{}",
+      "description": "",
+      "version": 1,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"index\":\"f21f53f0-b189-11ef-be2c-f5013dd2cd51\",\"filter\":[],\"query\":{\"query\":\"\",\"language\":\"lucene\"}}"
+      }
+    }
+  }
+]

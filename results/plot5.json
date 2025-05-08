@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "bee33b10-b22d-11ef-be2c-f5013dd2cd51",
+    "_type": "visualization",
+    "_source": {
+      "title": "Life expectancy over years by country (top 15)",
+      "visState": "{\"title\":\"Life expectancy over years by country (top 15)\",\"type\":\"heatmap\",\"params\":{\"type\":\"heatmap\",\"addTooltip\":true,\"addLegend\":true,\"enableHover\":false,\"legendPosition\":\"right\",\"times\":[],\"colorsNumber\":4,\"colorSchema\":\"Greens\",\"setColorRange\":false,\"colorsRange\":[],\"invertColors\":false,\"percentageMode\":false,\"valueAxes\":[{\"show\":false,\"id\":\"ValueAxis-1\",\"type\":\"value\",\"scale\":{\"type\":\"linear\",\"defaultYExtents\":true},\"labels\":{\"show\":false,\"rotate\":0,\"color\":\"#555\"}}]},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"avg\",\"schema\":\"metric\",\"params\":{\"field\":\"Life Expectancy at Birth\"}},{\"id\":\"2\",\"enabled\":true,\"type\":\"range\",\"schema\":\"segment\",\"params\":{\"field\":\"Year\",\"ranges\":[{\"from\":2005,\"to\":2006},{\"from\":2006,\"to\":2007},{\"from\":2007,\"to\":2008},{\"from\":2008,\"to\":2009},{\"from\":2009,\"to\":2010},{\"from\":2010,\"to\":2011},{\"from\":2011,\"to\":2012},{\"from\":2012,\"to\":2013},{\"from\":2013,\"to\":2014},{\"from\":2014,\"to\":2015},{\"from\":2015,\"to\":2016},{\"to\":2017,\"from\":2016},{\"from\":2017,\"to\":2018},{\"from\":2018,\"to\":2019},{\"from\":2019,\"to\":2020}],\"customLabel\":\"year\"}},{\"id\":\"3\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"group\",\"params\":{\"field\":\"Country.keyword\",\"otherBucket\":true,\"otherBucketLabel\":\"world\",\"missingBucket\":false,\"missingBucketLabel\":\"Missing\",\"size\":14,\"order\":\"desc\",\"orderBy\":\"1\",\"customLabel\":\"country\"}}]}",
+      "uiStateJSON": "{\"vis\":{\"defaultColors\":{\"68 - 73\":\"rgb(247,252,245)\",\"73 - 77\":\"rgb(199,233,192)\",\"77 - 82\":\"rgb(116,196,118)\",\"82 - 87\":\"rgb(35,139,69)\"},\"legendOpen\":true}}",
+      "description": "",
+      "version": 1,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"index\":\"f21f53f0-b189-11ef-be2c-f5013dd2cd51\",\"filter\":[],\"query\":{\"query\":\"\",\"language\":\"lucene\"}}"
+      }
+    }
+  }
+]

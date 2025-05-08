@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "904e6490-b24c-11ef-bce7-a5dd39bd76e5",
+    "_type": "visualization",
+    "_source": {
+      "title": "Average GNI/HDI/CO2 by country",
+      "visState": "{\"title\":\"Average GNI/HDI/CO2 by country\",\"type\":\"table\",\"params\":{\"perPage\":15,\"showMeticsAtAllLevels\":false,\"showPartialRows\":false,\"showTotal\":false,\"sort\":{\"columnIndex\":null,\"direction\":null},\"totalFunc\":\"sum\"},\"aggs\":[{\"id\":\"2\",\"enabled\":true,\"type\":\"avg\",\"schema\":\"metric\",\"params\":{\"field\":\"Gross National Income Per Capita\",\"customLabel\":\"Average gross income\"}},{\"id\":\"3\",\"enabled\":true,\"type\":\"avg\",\"schema\":\"metric\",\"params\":{\"field\":\"HDI\",\"customLabel\":\"Average HDI\"}},{\"id\":\"4\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"bucket\",\"params\":{\"field\":\"Country.keyword\",\"otherBucket\":true,\"otherBucketLabel\":\"world\",\"missingBucket\":false,\"missingBucketLabel\":\"Missing\",\"size\":14,\"order\":\"desc\",\"orderBy\":\"_term\",\"customLabel\":\"Country\"}},{\"id\":\"5\",\"enabled\":true,\"type\":\"avg\",\"schema\":\"metric\",\"params\":{\"field\":\"Carbon dioxide emissions per capita (production) (tonnes)\",\"customLabel\":\"Average CO2 emissions\"}}]}",
+      "uiStateJSON": "{\"vis\":{\"params\":{\"sort\":{\"columnIndex\":2,\"direction\":null}}}}",
+      "description": "",
+      "version": 1,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"index\":\"f21f53f0-b189-11ef-be2c-f5013dd2cd51\",\"filter\":[],\"query\":{\"query\":\"\",\"language\":\"lucene\"}}"
+      }
+    }
+  }
+]

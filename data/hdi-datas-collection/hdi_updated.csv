@@ -1,0 +1,2926 @@
+Country,Year,HDI
+afghanistan,2005,0.4
+angola,2005,0.447
+albania,2005,0.711
+andorra,2005,0.833
+united arab emirates,2005,0.822
+argentina,2005,0.802
+armenia,2005,0.707
+antigua and barbuda,2005,0.707
+australia,2005,0.911
+austria,2005,0.889
+azerbaijan,2005,0.672
+burundi,2005,0.338
+belgium,2005,0.902
+benin,2005,0.457
+burkina faso,2005,0.331
+bangladesh,2005,0.518
+bulgaria,2005,0.762
+bahrain,2005,0.803
+bahamas,2005,0.811
+bosnia and herzegovina,2005,0.691
+belarus,2005,0.75
+belize,2005,0.664
+bolivia,2005,0.635
+brazil,2005,0.698
+barbados,2005,0.776
+brunei,2005,0.825
+bhutan,2005,0.825
+botswana,2005,0.604
+central african republic,2005,0.342
+canada,2005,0.903
+switzerland,2005,0.905
+chile,2005,0.795
+china,2005,0.638
+ivory coast,2005,0.456
+cameroon,2005,0.475
+the democratic republic of the congo,2005,0.395
+congo,2005,0.519
+colombia,2005,0.696
+comoros,2005,0.488
+cabo verde,2005,0.606
+costa rica,2005,0.74
+cuba,2005,0.741
+cyprus,2005,0.834
+czechia,2005,0.844
+germany,2005,0.914
+djibouti,2005,0.405
+dominica,2005,0.701
+denmark,2005,0.911
+dominican republic,2005,0.674
+algeria,2005,0.685
+ecuador,2005,0.715
+egypt,2005,0.643
+eritrea,2005,0.449
+spain,2005,0.85
+estonia,2005,0.839
+ethiopia,2005,0.346
+finland,2005,0.905
+fiji,2005,0.702
+france,2005,0.866
+micronesia,2005,0.604
+gabon,2005,0.652
+uk,2005,0.895
+georgia,2005,0.738
+ghana,2005,0.533
+guinea,2005,0.387
+gambia,2005,0.431
+guinea-bissau,2005,0.404
+equatorial guinea,2005,0.556
+greece,2005,0.855
+grenada,2005,0.763
+guatemala,2005,0.574
+guyana,2005,0.622
+hong kong,2005,0.879
+honduras,2005,0.577
+croatia,2005,0.802
+haiti,2005,0.49
+hungary,2005,0.806
+indonesia,2005,0.632
+india,2005,0.534
+ireland,2005,0.888
+iran,2005,0.717
+iraq,2005,0.606
+iceland,2005,0.901
+israel,2005,0.866
+italy,2005,0.868
+jamaica,2005,0.69
+jordan,2005,0.716
+japan,2005,0.889
+kazakhstan,2005,0.739
+kenya,2005,0.516
+kyrgyzstan,2005,0.644
+cambodia,2005,0.499
+kiribati,2005,0.591
+saint kitts and nevis,2005,0.746
+south korea,2005,0.86
+kuwait,2005,0.798
+lao,2005,0.51
+lebanon,2005,0.737
+liberia,2005,0.437
+libya,2005,0.735
+saint lucia,2005,0.709
+liechtenstein,2005,0.901
+sri lanka,2005,0.71
+lesotho,2005,0.448
+lithuania,2005,0.817
+luxembourg,2005,0.884
+latvia,2005,0.808
+morocco,2005,0.567
+monaco,2005,0.567
+moldova,2005,0.695
+madagascar,2005,0.469
+maldives,2005,0.649
+mexico,2005,0.733
+marshall islands,2005,0.733
+north macedonia,2005,0.699
+mali,2005,0.366
+malta,2005,0.832
+myanmar,2005,0.46
+montenegro,2005,0.767
+mongolia,2005,0.658
+mozambique,2005,0.357
+mauritania,2005,0.49
+mauritius,2005,0.719
+malawi,2005,0.406
+malaysia,2005,0.732
+namibia,2005,0.555
+niger,2005,0.298
+nigeria,2005,0.469
+nicaragua,2005,0.588
+netherlands,2005,0.899
+norway,2005,0.931
+nepal,2005,0.495
+nauru,2005,0.495
+new zealand,2005,0.912
+oman,2005,0.745
+pakistan,2005,0.484
+panama,2005,0.749
+peru,2005,0.686
+philippines,2005,0.658
+palau,2005,0.767
+papua new guinea,2005,0.466
+poland,2005,0.815
+north korea,2005,0.815
+portugal,2005,0.806
+paraguay,2005,0.664
+"palestine, state of",2005,0.662
+qatar,2005,0.827
+romania,2005,0.756
+russian federation,2005,0.764
+rwanda,2005,0.422
+saudi arabia,2005,0.78
+sudan,2005,0.448
+senegal,2005,0.419
+singapore,2005,0.875
+solomon islands,2005,0.512
+sierra leone,2005,0.372
+el salvador,2005,0.641
+san marino,2005,0.641
+somalia,2005,0.641
+serbia,2005,0.734
+south sudan,2005,0.734
+sao tome and principe,2005,0.531
+suriname,2005,0.683
+slovakia,2005,0.803
+slovenia,2005,0.869
+sweden,2005,0.902
+eswatini,2005,0.446
+seychelles,2005,0.762
+syrian arab republic,2005,0.64
+chad,2005,0.327
+togo,2005,0.458
+thailand,2005,0.706
+tajikistan,2005,0.612
+turkmenistan,2005,0.66
+timor-leste,2005,0.538
+tonga,2005,0.702
+trinidad and tobago,2005,0.758
+tunisia,2005,0.694
+turkey,2005,0.7
+tuvalu,2005,0.61
+tanzania,2005,0.446
+uganda,2005,0.454
+ukraine,2005,0.743
+uruguay,2005,0.768
+usa,2005,0.9
+uzbekistan,2005,0.639
+saint vincent and the grenadines,2005,0.713
+venezuela,2005,0.721
+viet nam,2005,0.633
+vanuatu,2005,0.578
+samoa,2005,0.701
+yemen,2005,0.489
+south africa,2005,0.632
+zambia,2005,0.472
+zimbabwe,2005,0.448
+afghanistan,2006,0.409
+angola,2006,0.459
+albania,2006,0.718
+andorra,2006,0.848
+united arab emirates,2006,0.827
+argentina,2006,0.814
+armenia,2006,0.721
+antigua and barbuda,2006,0.721
+australia,2006,0.914
+austria,2006,0.893
+azerbaijan,2006,0.692
+burundi,2006,0.36
+belgium,2006,0.905
+benin,2006,0.464
+burkina faso,2006,0.339
+bangladesh,2006,0.524
+bulgaria,2006,0.767
+bahrain,2006,0.804
+bahamas,2006,0.813
+bosnia and herzegovina,2006,0.699
+belarus,2006,0.762
+belize,2006,0.68
+bolivia,2006,0.638
+brazil,2006,0.7
+barbados,2006,0.781
+brunei,2006,0.828
+bhutan,2006,0.828
+botswana,2006,0.618
+central african republic,2006,0.345
+canada,2006,0.907
+switzerland,2006,0.914
+chile,2006,0.796
+china,2006,0.65
+ivory coast,2006,0.458
+cameroon,2006,0.477
+the democratic republic of the congo,2006,0.401
+congo,2006,0.532
+colombia,2006,0.698
+comoros,2006,0.494
+cabo verde,2006,0.62
+costa rica,2006,0.747
+cuba,2006,0.761
+cyprus,2006,0.841
+czechia,2006,0.852
+germany,2006,0.917
+djibouti,2006,0.416
+dominica,2006,0.708
+denmark,2006,0.91
+dominican republic,2006,0.683
+algeria,2006,0.69
+ecuador,2006,0.72
+egypt,2006,0.647
+eritrea,2006,0.453
+spain,2006,0.856
+estonia,2006,0.847
+ethiopia,2006,0.363
+finland,2006,0.909
+fiji,2006,0.705
+france,2006,0.87
+micronesia,2006,0.61
+gabon,2006,0.651
+uk,2006,0.894
+georgia,2006,0.742
+ghana,2006,0.54
+guinea,2006,0.394
+gambia,2006,0.436
+guinea-bissau,2006,0.417
+equatorial guinea,2006,0.569
+greece,2006,0.863
+grenada,2006,0.765
+guatemala,2006,0.581
+guyana,2006,0.631
+hong kong,2006,0.887
+honduras,2006,0.581
+croatia,2006,0.811
+haiti,2006,0.494
+hungary,2006,0.814
+indonesia,2006,0.639
+india,2006,0.543
+ireland,2006,0.891
+iran,2006,0.727
+iraq,2006,0.604
+iceland,2006,0.903
+israel,2006,0.874
+italy,2006,0.873
+jamaica,2006,0.694
+jordan,2006,0.722
+japan,2006,0.892
+kazakhstan,2006,0.752
+kenya,2006,0.525
+kyrgyzstan,2006,0.65
+cambodia,2006,0.51
+kiribati,2006,0.586
+saint kitts and nevis,2006,0.75
+south korea,2006,0.866
+kuwait,2006,0.799
+lao,2006,0.511
+lebanon,2006,0.734
+liberia,2006,0.443
+libya,2006,0.739
+saint lucia,2006,0.718
+liechtenstein,2006,0.905
+sri lanka,2006,0.714
+lesotho,2006,0.446
+lithuania,2006,0.823
+luxembourg,2006,0.885
+latvia,2006,0.815
+morocco,2006,0.573
+monaco,2006,0.573
+moldova,2006,0.704
+madagascar,2006,0.475
+maldives,2006,0.664
+mexico,2006,0.741
+marshall islands,2006,0.741
+north macedonia,2006,0.707
+mali,2006,0.375
+malta,2006,0.831
+myanmar,2006,0.47
+montenegro,2006,0.776
+mongolia,2006,0.669
+mozambique,2006,0.364
+mauritania,2006,0.5
+mauritius,2006,0.726
+malawi,2006,0.415
+malaysia,2006,0.736
+namibia,2006,0.561
+niger,2006,0.306
+nigeria,2006,0.477
+nicaragua,2006,0.593
+netherlands,2006,0.906
+norway,2006,0.937
+nepal,2006,0.505
+nauru,2006,0.505
+new zealand,2006,0.913
+oman,2006,0.753
+pakistan,2006,0.493
+panama,2006,0.754
+peru,2006,0.691
+philippines,2006,0.659
+palau,2006,0.769
+papua new guinea,2006,0.469
+poland,2006,0.82
+north korea,2006,0.82
+portugal,2006,0.811
+paraguay,2006,0.664
+"palestine, state of",2006,0.663
+qatar,2006,0.825
+romania,2006,0.77
+russian federation,2006,0.775
+rwanda,2006,0.442
+saudi arabia,2006,0.787
+sudan,2006,0.465
+senegal,2006,0.427
+singapore,2006,0.881
+solomon islands,2006,0.52
+sierra leone,2006,0.382
+el salvador,2006,0.646
+san marino,2006,0.646
+somalia,2006,0.646
+serbia,2006,0.746
+south sudan,2006,0.746
+sao tome and principe,2006,0.542
+suriname,2006,0.691
+slovakia,2006,0.812
+slovenia,2006,0.878
+sweden,2006,0.906
+eswatini,2006,0.462
+seychelles,2006,0.753
+syrian arab republic,2006,0.65
+chad,2006,0.327
+togo,2006,0.464
+thailand,2006,0.712
+tajikistan,2006,0.622
+turkmenistan,2006,0.67
+timor-leste,2006,0.563
+tonga,2006,0.703
+trinidad and tobago,2006,0.767
+tunisia,2006,0.7
+turkey,2006,0.71
+tuvalu,2006,0.611
+tanzania,2006,0.456
+uganda,2006,0.466
+ukraine,2006,0.751
+uruguay,2006,0.768
+usa,2006,0.904
+uzbekistan,2006,0.644
+saint vincent and the grenadines,2006,0.722
+venezuela,2006,0.732
+viet nam,2006,0.641
+vanuatu,2006,0.584
+samoa,2006,0.703
+yemen,2006,0.494
+south africa,2006,0.637
+zambia,2006,0.484
+zimbabwe,2006,0.452
+afghanistan,2007,0.424
+angola,2007,0.475
+albania,2007,0.73
+andorra,2007,0.847
+united arab emirates,2007,0.831
+argentina,2007,0.817
+armenia,2007,0.738
+antigua and barbuda,2007,0.802
+australia,2007,0.915
+austria,2007,0.896
+azerbaijan,2007,0.706
+burundi,2007,0.372
+belgium,2007,0.908
+benin,2007,0.472
+burkina faso,2007,0.334
+bangladesh,2007,0.527
+bulgaria,2007,0.774
+bahrain,2007,0.807
+bahamas,2007,0.812
+bosnia and herzegovina,2007,0.707
+belarus,2007,0.773
+belize,2007,0.685
+bolivia,2007,0.645
+brazil,2007,0.704
+barbados,2007,0.786
+brunei,2007,0.827
+bhutan,2007,0.827
+botswana,2007,0.632
+central african republic,2007,0.351
+canada,2007,0.908
+switzerland,2007,0.92
+chile,2007,0.801
+china,2007,0.663
+ivory coast,2007,0.461
+cameroon,2007,0.489
+the democratic republic of the congo,2007,0.406
+congo,2007,0.533
+colombia,2007,0.71
+comoros,2007,0.5
+cabo verde,2007,0.629
+costa rica,2007,0.756
+cuba,2007,0.775
+cyprus,2007,0.848
+czechia,2007,0.859
+germany,2007,0.921
+djibouti,2007,0.426
+dominica,2007,0.707
+denmark,2007,0.911
+dominican republic,2007,0.692
+algeria,2007,0.697
+ecuador,2007,0.723
+egypt,2007,0.655
+eritrea,2007,0.457
+spain,2007,0.858
+estonia,2007,0.853
+ethiopia,2007,0.38
+finland,2007,0.911
+fiji,2007,0.706
+france,2007,0.873
+micronesia,2007,0.614
+gabon,2007,0.655
+uk,2007,0.897
+georgia,2007,0.753
+ghana,2007,0.55
+guinea,2007,0.402
+gambia,2007,0.442
+guinea-bissau,2007,0.424
+equatorial guinea,2007,0.578
+greece,2007,0.858
+grenada,2007,0.773
+guatemala,2007,0.59
+guyana,2007,0.638
+hong kong,2007,0.894
+honduras,2007,0.586
+croatia,2007,0.815
+haiti,2007,0.499
+hungary,2007,0.817
+indonesia,2007,0.643
+india,2007,0.553
+ireland,2007,0.896
+iran,2007,0.733
+iraq,2007,0.607
+iceland,2007,0.909
+israel,2007,0.885
+italy,2007,0.877
+jamaica,2007,0.697
+jordan,2007,0.729
+japan,2007,0.895
+kazakhstan,2007,0.758
+kenya,2007,0.533
+kyrgyzstan,2007,0.656
+cambodia,2007,0.521
+kiribati,2007,0.587
+saint kitts and nevis,2007,0.753
+south korea,2007,0.871
+kuwait,2007,0.802
+lao,2007,0.525
+lebanon,2007,0.752
+liberia,2007,0.448
+libya,2007,0.741
+saint lucia,2007,0.718
+liechtenstein,2007,0.907
+sri lanka,2007,0.719
+lesotho,2007,0.452
+lithuania,2007,0.83
+luxembourg,2007,0.887
+latvia,2007,0.82
+morocco,2007,0.581
+monaco,2007,0.581
+moldova,2007,0.713
+madagascar,2007,0.482
+maldives,2007,0.665
+mexico,2007,0.743
+marshall islands,2007,0.743
+north macedonia,2007,0.711
+mali,2007,0.382
+malta,2007,0.837
+myanmar,2007,0.48
+montenegro,2007,0.787
+mongolia,2007,0.68
+mozambique,2007,0.377
+mauritania,2007,0.499
+mauritius,2007,0.734
+malawi,2007,0.423
+malaysia,2007,0.747
+namibia,2007,0.569
+niger,2007,0.311
+nigeria,2007,0.48
+nicaragua,2007,0.599
+netherlands,2007,0.912
+norway,2007,0.938
+nepal,2007,0.509
+nauru,2007,0.509
+new zealand,2007,0.916
+oman,2007,0.762
+pakistan,2007,0.499
+panama,2007,0.763
+peru,2007,0.7
+philippines,2007,0.664
+palau,2007,0.773
+papua new guinea,2007,0.478
+poland,2007,0.825
+north korea,2007,0.825
+portugal,2007,0.818
+paraguay,2007,0.669
+"palestine, state of",2007,0.672
+qatar,2007,0.834
+romania,2007,0.786
+russian federation,2007,0.786
+rwanda,2007,0.456
+saudi arabia,2007,0.794
+sudan,2007,0.47
+senegal,2007,0.439
+singapore,2007,0.887
+solomon islands,2007,0.523
+sierra leone,2007,0.397
+el salvador,2007,0.651
+san marino,2007,0.651
+somalia,2007,0.651
+serbia,2007,0.754
+south sudan,2007,0.754
+sao tome and principe,2007,0.545
+suriname,2007,0.701
+slovakia,2007,0.823
+slovenia,2007,0.882
+sweden,2007,0.908
+eswatini,2007,0.471
+seychelles,2007,0.77
+syrian arab republic,2007,0.659
+chad,2007,0.337
+togo,2007,0.457
+thailand,2007,0.724
+tajikistan,2007,0.625
+turkmenistan,2007,0.682
+timor-leste,2007,0.585
+tonga,2007,0.704
+trinidad and tobago,2007,0.773
+tunisia,2007,0.706
+turkey,2007,0.717
+tuvalu,2007,0.613
+tanzania,2007,0.465
+uganda,2007,0.476
+ukraine,2007,0.757
+uruguay,2007,0.771
+usa,2007,0.906
+uzbekistan,2007,0.656
+saint vincent and the grenadines,2007,0.73
+venezuela,2007,0.749
+viet nam,2007,0.648
+vanuatu,2007,0.585
+samoa,2007,0.708
+yemen,2007,0.498
+south africa,2007,0.644
+zambia,2007,0.495
+zimbabwe,2007,0.454
+afghanistan,2008,0.43
+angola,2008,0.486
+albania,2008,0.736
+andorra,2008,0.85
+united arab emirates,2008,0.834
+argentina,2008,0.825
+armenia,2008,0.742
+antigua and barbuda,2008,0.801
+australia,2008,0.919
+austria,2008,0.898
+azerbaijan,2008,0.716
+burundi,2008,0.386
+belgium,2008,0.908
+benin,2008,0.48
+burkina faso,2008,0.349
+bangladesh,2008,0.53
+bulgaria,2008,0.782
+bahrain,2008,0.808
+bahamas,2008,0.812
+bosnia and herzegovina,2008,0.718
+belarus,2008,0.783
+belize,2008,0.693
+bolivia,2008,0.652
+brazil,2008,0.715
+barbados,2008,0.789
+brunei,2008,0.826
+bhutan,2008,0.826
+botswana,2008,0.642
+central african republic,2008,0.358
+canada,2008,0.91
+switzerland,2008,0.926
+chile,2008,0.813
+china,2008,0.672
+ivory coast,2008,0.464
+cameroon,2008,0.497
+the democratic republic of the congo,2008,0.416
+congo,2008,0.541
+colombia,2008,0.716
+comoros,2008,0.507
+cabo verde,2008,0.635
+costa rica,2008,0.765
+cuba,2008,0.784
+cyprus,2008,0.857
+czechia,2008,0.863
+germany,2008,0.923
+djibouti,2008,0.434
+dominica,2008,0.717
+denmark,2008,0.915
+dominican republic,2008,0.697
+algeria,2008,0.705
+ecuador,2008,0.729
+egypt,2008,0.663
+eritrea,2008,0.448
+spain,2008,0.86
+estonia,2008,0.856
+ethiopia,2008,0.395
+finland,2008,0.912
+fiji,2008,0.709
+france,2008,0.873
+micronesia,2008,0.618
+gabon,2008,0.655
+uk,2008,0.9
+georgia,2008,0.748
+ghana,2008,0.561
+guinea,2008,0.408
+gambia,2008,0.45
+guinea-bissau,2008,0.429
+equatorial guinea,2008,0.582
+greece,2008,0.863
+grenada,2008,0.778
+guatemala,2008,0.596
+guyana,2008,0.644
+hong kong,2008,0.899
+honduras,2008,0.591
+croatia,2008,0.817
+haiti,2008,0.503
+hungary,2008,0.823
+indonesia,2008,0.646
+india,2008,0.56
+ireland,2008,0.899
+iran,2008,0.735
+iraq,2008,0.623
+iceland,2008,0.902
+israel,2008,0.885
+italy,2008,0.878
+jamaica,2008,0.7
+jordan,2008,0.734
+japan,2008,0.895
+kazakhstan,2008,0.758
+kenya,2008,0.539
+kyrgyzstan,2008,0.66
+cambodia,2008,0.528
+kiribati,2008,0.588
+saint kitts and nevis,2008,0.757
+south korea,2008,0.875
+kuwait,2008,0.807
+lao,2008,0.532
+lebanon,2008,0.76
+liberia,2008,0.453
+libya,2008,0.741
+saint lucia,2008,0.723
+liechtenstein,2008,0.917
+sri lanka,2008,0.721
+lesotho,2008,0.457
+lithuania,2008,0.84
+luxembourg,2008,0.9
+latvia,2008,0.827
+morocco,2008,0.588
+monaco,2008,0.588
+moldova,2008,0.723
+madagascar,2008,0.49
+maldives,2008,0.677
+mexico,2008,0.745
+marshall islands,2008,0.745
+north macedonia,2008,0.73
+mali,2008,0.39
+malta,2008,0.841
+myanmar,2008,0.465
+montenegro,2008,0.8
+mongolia,2008,0.691
+mozambique,2008,0.387
+mauritania,2008,0.499
+mauritius,2008,0.741
+malawi,2008,0.433
+malaysia,2008,0.756
+namibia,2008,0.576
+niger,2008,0.32
+nigeria,2008,0.484
+nicaragua,2008,0.605
+netherlands,2008,0.912
+norway,2008,0.94
+nepal,2008,0.518
+nauru,2008,0.518
+new zealand,2008,0.915
+oman,2008,0.772
+pakistan,2008,0.498
+panama,2008,0.767
+peru,2008,0.708
+philippines,2008,0.668
+palau,2008,0.772
+papua new guinea,2008,0.484
+poland,2008,0.831
+north korea,2008,0.831
+portugal,2008,0.822
+paraguay,2008,0.679
+"palestine, state of",2008,0.677
+qatar,2008,0.84
+romania,2008,0.806
+russian federation,2008,0.791
+rwanda,2008,0.467
+saudi arabia,2008,0.802
+sudan,2008,0.478
+senegal,2008,0.451
+singapore,2008,0.892
+solomon islands,2008,0.531
+sierra leone,2008,0.409
+el salvador,2008,0.653
+san marino,2008,0.653
+somalia,2008,0.653
+serbia,2008,0.765
+south sudan,2008,0.765
+sao tome and principe,2008,0.546
+suriname,2008,0.709
+slovakia,2008,0.831
+slovenia,2008,0.888
+sweden,2008,0.905
+eswatini,2008,0.479
+seychelles,2008,0.771
+syrian arab republic,2008,0.653
+chad,2008,0.341
+togo,2008,0.464
+thailand,2008,0.727
+tajikistan,2008,0.639
+turkmenistan,2008,0.693
+timor-leste,2008,0.611
+tonga,2008,0.709
+trinidad and tobago,2008,0.777
+tunisia,2008,0.711
+turkey,2008,0.721
+tuvalu,2008,0.618
+tanzania,2008,0.473
+uganda,2008,0.484
+ukraine,2008,0.761
+uruguay,2008,0.774
+usa,2008,0.906
+uzbekistan,2008,0.659
+saint vincent and the grenadines,2008,0.734
+venezuela,2008,0.756
+viet nam,2008,0.653
+vanuatu,2008,0.591
+samoa,2008,0.709
+yemen,2008,0.501
+south africa,2008,0.653
+zambia,2008,0.506
+zimbabwe,2008,0.454
+afghanistan,2009,0.44
+angola,2009,0.5
+albania,2009,0.741
+andorra,2009,0.848
+united arab emirates,2009,0.833
+argentina,2009,0.827
+armenia,2009,0.741
+antigua and barbuda,2009,0.795
+australia,2009,0.921
+austria,2009,0.898
+azerbaijan,2009,0.722
+burundi,2009,0.395
+belgium,2009,0.91
+benin,2009,0.486
+burkina faso,2009,0.36
+bangladesh,2009,0.541
+bulgaria,2009,0.785
+bahrain,2009,0.806
+bahamas,2009,0.81
+bosnia and herzegovina,2009,0.721
+belarus,2009,0.785
+belize,2009,0.701
+bolivia,2009,0.658
+brazil,2009,0.717
+barbados,2009,0.791
+brunei,2009,0.828
+bhutan,2009,0.828
+botswana,2009,0.647
+central african republic,2009,0.364
+canada,2009,0.909
+switzerland,2009,0.936
+chile,2009,0.811
+china,2009,0.682
+ivory coast,2009,0.469
+cameroon,2009,0.506
+the democratic republic of the congo,2009,0.421
+congo,2009,0.554
+colombia,2009,0.722
+comoros,2009,0.513
+cabo verde,2009,0.639
+costa rica,2009,0.769
+cuba,2009,0.784
+cyprus,2009,0.862
+czechia,2009,0.865
+germany,2009,0.923
+djibouti,2009,0.445
+dominica,2009,0.713
+denmark,2009,0.909
+dominican republic,2009,0.701
+algeria,2009,0.714
+ecuador,2009,0.731
+egypt,2009,0.668
+eritrea,2009,0.457
+spain,2009,0.861
+estonia,2009,0.856
+ethiopia,2009,0.402
+finland,2009,0.907
+fiji,2009,0.711
+france,2009,0.872
+micronesia,2009,0.62
+gabon,2009,0.66
+uk,2009,0.906
+georgia,2009,0.753
+ghana,2009,0.566
+guinea,2009,0.41
+gambia,2009,0.455
+guinea-bissau,2009,0.436
+equatorial guinea,2009,0.586
+greece,2009,0.866
+grenada,2009,0.777
+guatemala,2009,0.6
+guyana,2009,0.649
+hong kong,2009,0.9
+honduras,2009,0.594
+croatia,2009,0.816
+haiti,2009,0.508
+hungary,2009,0.825
+indonesia,2009,0.657
+india,2009,0.565
+ireland,2009,0.895
+iran,2009,0.738
+iraq,2009,0.633
+iceland,2009,0.9
+israel,2009,0.889
+italy,2009,0.878
+jamaica,2009,0.7
+jordan,2009,0.731
+japan,2009,0.896
+kazakhstan,2009,0.761
+kenya,2009,0.539
+kyrgyzstan,2009,0.663
+cambodia,2009,0.534
+kiribati,2009,0.585
+saint kitts and nevis,2009,0.758
+south korea,2009,0.877
+kuwait,2009,0.81
+lao,2009,0.543
+lebanon,2009,0.767
+liberia,2009,0.456
+libya,2009,0.738
+saint lucia,2009,0.725
+liechtenstein,2009,0.911
+sri lanka,2009,0.713
+lesotho,2009,0.457
+lithuania,2009,0.839
+luxembourg,2009,0.905
+latvia,2009,0.826
+morocco,2009,0.594
+monaco,2009,0.594
+moldova,2009,0.723
+madagascar,2009,0.493
+maldives,2009,0.68
+mexico,2009,0.745
+marshall islands,2009,0.745
+north macedonia,2009,0.733
+mali,2009,0.397
+malta,2009,0.847
+myanmar,2009,0.501
+montenegro,2009,0.8
+mongolia,2009,0.695
+mozambique,2009,0.395
+mauritania,2009,0.508
+mauritius,2009,0.749
+malawi,2009,0.445
+malaysia,2009,0.762
+namibia,2009,0.581
+niger,2009,0.327
+nigeria,2009,0.484
+nicaragua,2009,0.606
+netherlands,2009,0.913
+norway,2009,0.936
+nepal,2009,0.53
+nauru,2009,0.53
+new zealand,2009,0.919
+oman,2009,0.783
+pakistan,2009,0.502
+panama,2009,0.769
+peru,2009,0.711
+philippines,2009,0.667
+palau,2009,0.771
+papua new guinea,2009,0.49
+poland,2009,0.835
+north korea,2009,0.835
+portugal,2009,0.825
+paraguay,2009,0.677
+"palestine, state of",2009,0.682
+qatar,2009,0.838
+romania,2009,0.809
+russian federation,2009,0.789
+rwanda,2009,0.48
+saudi arabia,2009,0.807
+sudan,2009,0.486
+senegal,2009,0.459
+singapore,2009,0.892
+solomon islands,2009,0.538
+sierra leone,2009,0.42
+el salvador,2009,0.653
+san marino,2009,0.653
+somalia,2009,0.653
+serbia,2009,0.766
+south sudan,2009,0.766
+sao tome and principe,2009,0.552
+suriname,2009,0.717
+slovakia,2009,0.833
+slovenia,2009,0.887
+sweden,2009,0.904
+eswatini,2009,0.486
+seychelles,2009,0.77
+syrian arab republic,2009,0.659
+chad,2009,0.355
+togo,2009,0.472
+thailand,2009,0.73
+tajikistan,2009,0.633
+turkmenistan,2009,0.701
+timor-leste,2009,0.609
+tonga,2009,0.708
+trinidad and tobago,2009,0.787
+tunisia,2009,0.715
+turkey,2009,0.728
+tuvalu,2009,0.615
+tanzania,2009,0.482
+uganda,2009,0.494
+ukraine,2009,0.758
+uruguay,2009,0.78
+usa,2009,0.908
+uzbekistan,2009,0.665
+saint vincent and the grenadines,2009,0.736
+venezuela,2009,0.756
+viet nam,2009,0.658
+vanuatu,2009,0.591
+samoa,2009,0.7
+yemen,2009,0.506
+south africa,2009,0.665
+zambia,2009,0.519
+zimbabwe,2009,0.486
+afghanistan,2010,0.448
+angola,2010,0.51
+albania,2010,0.754
+andorra,2010,0.848
+united arab emirates,2010,0.835
+argentina,2010,0.834
+armenia,2010,0.746
+antigua and barbuda,2010,0.79
+australia,2010,0.923
+austria,2010,0.902
+azerbaijan,2010,0.727
+burundi,2010,0.405
+belgium,2010,0.912
+benin,2010,0.492
+burkina faso,2010,0.372
+bangladesh,2010,0.553
+bulgaria,2010,0.79
+bahrain,2010,0.808
+bahamas,2010,0.812
+bosnia and herzegovina,2010,0.725
+belarus,2010,0.79
+belize,2010,0.707
+bolivia,2010,0.662
+brazil,2010,0.723
+barbados,2010,0.788
+brunei,2010,0.828
+bhutan,2010,0.581
+botswana,2010,0.66
+central african republic,2010,0.372
+canada,2010,0.911
+switzerland,2010,0.942
+chile,2010,0.813
+china,2010,0.691
+ivory coast,2010,0.473
+cameroon,2010,0.513
+the democratic republic of the congo,2010,0.429
+congo,2010,0.561
+colombia,2010,0.726
+comoros,2010,0.52
+cabo verde,2010,0.644
+costa rica,2010,0.772
+cuba,2010,0.78
+cyprus,2010,0.857
+czechia,2010,0.87
+germany,2010,0.926
+djibouti,2010,0.458
+dominica,2010,0.711
+denmark,2010,0.913
+dominican republic,2010,0.708
+algeria,2010,0.721
+ecuador,2010,0.736
+egypt,2010,0.675
+eritrea,2010,0.463
+spain,2010,0.868
+estonia,2010,0.861
+ethiopia,2010,0.412
+finland,2010,0.911
+fiji,2010,0.714
+france,2010,0.877
+micronesia,2010,0.625
+gabon,2010,0.664
+uk,2010,0.912
+georgia,2010,0.759
+ghana,2010,0.574
+guinea,2010,0.415
+gambia,2010,0.46
+guinea-bissau,2010,0.443
+equatorial guinea,2010,0.579
+greece,2010,0.869
+grenada,2010,0.782
+guatemala,2010,0.605
+guyana,2010,0.656
+hong kong,2010,0.907
+honduras,2010,0.597
+croatia,2010,0.821
+haiti,2010,0.433
+hungary,2010,0.828
+indonesia,2010,0.664
+india,2010,0.575
+ireland,2010,0.904
+iran,2010,0.745
+iraq,2010,0.64
+iceland,2010,0.902
+israel,2010,0.894
+italy,2010,0.882
+jamaica,2010,0.704
+jordan,2010,0.725
+japan,2010,0.898
+kazakhstan,2010,0.767
+kenya,2010,0.545
+kyrgyzstan,2010,0.664
+cambodia,2010,0.54
+kiribati,2010,0.589
+saint kitts and nevis,2010,0.759
+south korea,2010,0.89
+kuwait,2010,0.813
+lao,2010,0.551
+lebanon,2010,0.77
+liberia,2010,0.46
+libya,2010,0.739
+saint lucia,2010,0.728
+liechtenstein,2010,0.913
+sri lanka,2010,0.737
+lesotho,2010,0.467
+lithuania,2010,0.842
+luxembourg,2010,0.912
+latvia,2010,0.824
+morocco,2010,0.603
+monaco,2010,0.603
+moldova,2010,0.73
+madagascar,2010,0.492
+maldives,2010,0.688
+mexico,2010,0.746
+marshall islands,2010,0.746
+north macedonia,2010,0.738
+mali,2010,0.404
+malta,2010,0.861
+myanmar,2010,0.51
+montenegro,2010,0.808
+mongolia,2010,0.701
+mozambique,2010,0.402
+mauritania,2010,0.51
+mauritius,2010,0.755
+malawi,2010,0.456
+malaysia,2010,0.769
+namibia,2010,0.585
+niger,2010,0.338
+nigeria,2010,0.482
+nicaragua,2010,0.614
+netherlands,2010,0.917
+norway,2010,0.941
+nepal,2010,0.543
+nauru,2010,0.543
+new zealand,2010,0.922
+oman,2010,0.788
+pakistan,2010,0.505
+panama,2010,0.773
+peru,2010,0.725
+philippines,2010,0.674
+palau,2010,0.773
+papua new guinea,2010,0.499
+poland,2010,0.841
+north korea,2010,0.841
+portugal,2010,0.829
+paraguay,2010,0.685
+"palestine, state of",2010,0.687
+qatar,2010,0.834
+romania,2010,0.807
+russian federation,2010,0.796
+rwanda,2010,0.489
+saudi arabia,2010,0.816
+sudan,2010,0.486
+senegal,2010,0.468
+singapore,2010,0.91
+solomon islands,2010,0.55
+sierra leone,2010,0.427
+el salvador,2010,0.659
+san marino,2010,0.659
+somalia,2010,0.659
+serbia,2010,0.767
+south sudan,2010,0.43
+sao tome and principe,2010,0.554
+suriname,2010,0.723
+slovakia,2010,0.84
+slovenia,2010,0.89
+sweden,2010,0.91
+eswatini,2010,0.503
+seychelles,2010,0.776
+syrian arab republic,2010,0.66
+chad,2010,0.362
+togo,2010,0.477
+thailand,2010,0.737
+tajikistan,2010,0.636
+turkmenistan,2010,0.711
+timor-leste,2010,0.619
+tonga,2010,0.713
+trinidad and tobago,2010,0.79
+tunisia,2010,0.72
+turkey,2010,0.749
+tuvalu,2010,0.616
+tanzania,2010,0.493
+uganda,2010,0.502
+ukraine,2010,0.764
+uruguay,2010,0.787
+usa,2010,0.911
+uzbekistan,2010,0.673
+saint vincent and the grenadines,2010,0.734
+venezuela,2010,0.755
+viet nam,2010,0.663
+vanuatu,2010,0.591
+samoa,2010,0.713
+yemen,2010,0.51
+south africa,2010,0.675
+zambia,2010,0.529
+zimbabwe,2010,0.512
+afghanistan,2011,0.456
+angola,2011,0.526
+albania,2011,0.766
+andorra,2011,0.849
+united arab emirates,2011,0.84
+argentina,2011,0.841
+armenia,2011,0.75
+antigua and barbuda,2011,0.783
+australia,2011,0.926
+austria,2011,0.905
+azerbaijan,2011,0.729
+burundi,2011,0.41
+belgium,2011,0.914
+benin,2011,0.499
+burkina faso,2011,0.384
+bangladesh,2011,0.561
+bulgaria,2011,0.794
+bahrain,2011,0.809
+bahamas,2011,0.812
+bosnia and herzegovina,2011,0.732
+belarus,2011,0.797
+belize,2011,0.709
+bolivia,2011,0.668
+brazil,2011,0.728
+barbados,2011,0.784
+brunei,2011,0.832
+bhutan,2011,0.591
+botswana,2011,0.669
+central african republic,2011,0.381
+canada,2011,0.915
+switzerland,2011,0.943
+chile,2011,0.817
+china,2011,0.7
+ivory coast,2011,0.472
+cameroon,2011,0.521
+the democratic republic of the congo,2011,0.438
+congo,2011,0.564
+colombia,2011,0.733
+comoros,2011,0.527
+cabo verde,2011,0.653
+costa rica,2011,0.782
+cuba,2011,0.777
+cyprus,2011,0.861
+czechia,2011,0.872
+germany,2011,0.931
+djibouti,2011,0.47
+dominica,2011,0.702
+denmark,2011,0.926
+dominican republic,2011,0.713
+algeria,2011,0.727
+ecuador,2011,0.743
+egypt,2011,0.679
+eritrea,2011,0.481
+spain,2011,0.872
+estonia,2011,0.871
+ethiopia,2011,0.422
+finland,2011,0.915
+fiji,2011,0.719
+france,2011,0.881
+micronesia,2011,0.628
+gabon,2011,0.668
+uk,2011,0.908
+georgia,2011,0.766
+ghana,2011,0.585
+guinea,2011,0.42
+gambia,2011,0.46
+guinea-bissau,2011,0.452
+equatorial guinea,2011,0.585
+greece,2011,0.865
+grenada,2011,0.786
+guatemala,2011,0.611
+guyana,2011,0.665
+hong kong,2011,0.914
+honduras,2011,0.6
+croatia,2011,0.826
+haiti,2011,0.512
+hungary,2011,0.83
+indonesia,2011,0.671
+india,2011,0.588
+ireland,2011,0.902
+iran,2011,0.754
+iraq,2011,0.649
+iceland,2011,0.912
+israel,2011,0.897
+italy,2011,0.885
+jamaica,2011,0.709
+jordan,2011,0.721
+japan,2011,0.899
+kazakhstan,2011,0.775
+kenya,2011,0.55
+kyrgyzstan,2011,0.665
+cambodia,2011,0.548
+kiribati,2011,0.587
+saint kitts and nevis,2011,0.764
+south korea,2011,0.896
+kuwait,2011,0.82
+lao,2011,0.563
+lebanon,2011,0.771
+liberia,2011,0.464
+libya,2011,0.69
+saint lucia,2011,0.734
+liechtenstein,2011,0.918
+sri lanka,2011,0.744
+lesotho,2011,0.475
+lithuania,2011,0.849
+luxembourg,2011,0.913
+latvia,2011,0.831
+morocco,2011,0.614
+monaco,2011,0.614
+moldova,2011,0.736
+madagascar,2011,0.494
+maldives,2011,0.7
+mexico,2011,0.752
+marshall islands,2011,0.633
+north macedonia,2011,0.741
+mali,2011,0.409
+malta,2011,0.857
+myanmar,2011,0.521
+montenegro,2011,0.811
+mongolia,2011,0.709
+mozambique,2011,0.407
+mauritania,2011,0.515
+mauritius,2011,0.762
+malawi,2011,0.463
+malaysia,2011,0.773
+namibia,2011,0.592
+niger,2011,0.346
+nigeria,2011,0.492
+nicaragua,2011,0.622
+netherlands,2011,0.927
+norway,2011,0.944
+nepal,2011,0.553
+nauru,2011,0.553
+new zealand,2011,0.922
+oman,2011,0.793
+pakistan,2011,0.508
+panama,2011,0.779
+peru,2011,0.732
+philippines,2011,0.679
+palau,2011,0.776
+papua new guinea,2011,0.504
+poland,2011,0.847
+north korea,2011,0.847
+portugal,2011,0.835
+paraguay,2011,0.696
+"palestine, state of",2011,0.694
+qatar,2011,0.844
+romania,2011,0.808
+russian federation,2011,0.808
+rwanda,2011,0.497
+saudi arabia,2011,0.828
+sudan,2011,0.487
+senegal,2011,0.482
+singapore,2011,0.915
+solomon islands,2011,0.553
+sierra leone,2011,0.433
+el salvador,2011,0.661
+san marino,2011,0.661
+somalia,2011,0.661
+serbia,2011,0.777
+south sudan,2011,0.433
+sao tome and principe,2011,0.556
+suriname,2011,0.728
+slovakia,2011,0.844
+slovenia,2011,0.892
+sweden,2011,0.911
+eswatini,2011,0.517
+seychelles,2011,0.766
+syrian arab republic,2011,0.691
+chad,2011,0.372
+togo,2011,0.487
+thailand,2011,0.743
+tajikistan,2011,0.635
+turkmenistan,2011,0.72
+timor-leste,2011,0.638
+tonga,2011,0.72
+trinidad and tobago,2011,0.794
+tunisia,2011,0.722
+turkey,2011,0.762
+tuvalu,2011,0.616
+tanzania,2011,0.499
+uganda,2011,0.506
+ukraine,2011,0.769
+uruguay,2011,0.794
+usa,2011,0.913
+uzbekistan,2011,0.68
+saint vincent and the grenadines,2011,0.736
+venezuela,2011,0.762
+viet nam,2011,0.668
+vanuatu,2011,0.593
+samoa,2011,0.713
+yemen,2011,0.509
+south africa,2011,0.686
+zambia,2011,0.534
+zimbabwe,2011,0.535
+afghanistan,2012,0.466
+angola,2012,0.541
+albania,2012,0.778
+andorra,2012,0.869
+united arab emirates,2012,0.846
+argentina,2012,0.843
+armenia,2012,0.755
+antigua and barbuda,2012,0.787
+australia,2012,0.93
+austria,2012,0.906
+azerbaijan,2012,0.734
+burundi,2012,0.416
+belgium,2012,0.915
+benin,2012,0.509
+burkina faso,2012,0.395
+bangladesh,2012,0.572
+bulgaria,2012,0.798
+bahrain,2012,0.817
+bahamas,2012,0.815
+bosnia and herzegovina,2012,0.745
+belarus,2012,0.806
+belize,2012,0.713
+bolivia,2012,0.674
+brazil,2012,0.732
+barbados,2012,0.787
+brunei,2012,0.838
+bhutan,2012,0.598
+botswana,2012,0.674
+central african republic,2012,0.388
+canada,2012,0.921
+switzerland,2012,0.945
+chile,2012,0.824
+china,2012,0.709
+ivory coast,2012,0.477
+cameroon,2012,0.533
+the democratic republic of the congo,2012,0.44
+congo,2012,0.575
+colombia,2012,0.734
+comoros,2012,0.533
+cabo verde,2012,0.656
+costa rica,2012,0.786
+cuba,2012,0.773
+cyprus,2012,0.86
+czechia,2012,0.874
+germany,2012,0.933
+djibouti,2012,0.478
+dominica,2012,0.706
+denmark,2012,0.931
+dominican republic,2012,0.718
+algeria,2012,0.729
+ecuador,2012,0.751
+egypt,2012,0.688
+eritrea,2012,0.486
+spain,2012,0.874
+estonia,2012,0.874
+ethiopia,2012,0.43
+finland,2012,0.915
+fiji,2012,0.721
+france,2012,0.882
+micronesia,2012,0.628
+gabon,2012,0.679
+uk,2012,0.909
+georgia,2012,0.773
+ghana,2012,0.592
+guinea,2012,0.425
+gambia,2012,0.467
+guinea-bissau,2012,0.456
+equatorial guinea,2012,0.592
+greece,2012,0.866
+grenada,2012,0.784
+guatemala,2012,0.616
+guyana,2012,0.669
+hong kong,2012,0.918
+honduras,2012,0.599
+croatia,2012,0.83
+haiti,2012,0.517
+hungary,2012,0.831
+indonesia,2012,0.678
+india,2012,0.598
+ireland,2012,0.903
+iran,2012,0.768
+iraq,2012,0.66
+iceland,2012,0.921
+israel,2012,0.898
+italy,2012,0.883
+jamaica,2012,0.713
+jordan,2012,0.721
+japan,2012,0.905
+kazakhstan,2012,0.783
+kenya,2012,0.552
+kyrgyzstan,2012,0.675
+cambodia,2012,0.555
+kiribati,2012,0.594
+saint kitts and nevis,2012,0.766
+south korea,2012,0.897
+kuwait,2012,0.826
+lao,2012,0.572
+lebanon,2012,0.762
+liberia,2012,0.47
+libya,2012,0.726
+saint lucia,2012,0.734
+liechtenstein,2012,0.923
+sri lanka,2012,0.751
+lesotho,2012,0.486
+lithuania,2012,0.851
+luxembourg,2012,0.916
+latvia,2012,0.833
+morocco,2012,0.624
+monaco,2012,0.624
+moldova,2012,0.741
+madagascar,2012,0.496
+maldives,2012,0.709
+mexico,2012,0.76
+marshall islands,2012,0.628
+north macedonia,2012,0.743
+mali,2012,0.407
+malta,2012,0.864
+myanmar,2012,0.531
+montenegro,2012,0.812
+mongolia,2012,0.718
+mozambique,2012,0.413
+mauritania,2012,0.523
+mauritius,2012,0.775
+malawi,2012,0.47
+malaysia,2012,0.78
+namibia,2012,0.601
+niger,2012,0.354
+nigeria,2012,0.499
+nicaragua,2012,0.629
+netherlands,2012,0.927
+norway,2012,0.946
+nepal,2012,0.561
+nauru,2012,0.561
+new zealand,2012,0.924
+oman,2012,0.802
+pakistan,2012,0.513
+panama,2012,0.785
+peru,2012,0.742
+philippines,2012,0.685
+palau,2012,0.776
+papua new guinea,2012,0.513
+poland,2012,0.852
+north korea,2012,0.852
+portugal,2012,0.836
+paraguay,2012,0.702
+"palestine, state of",2012,0.701
+qatar,2012,0.829
+romania,2012,0.805
+russian federation,2012,0.811
+rwanda,2012,0.506
+saudi arabia,2012,0.837
+sudan,2012,0.493
+senegal,2012,0.49
+singapore,2012,0.92
+solomon islands,2012,0.554
+sierra leone,2012,0.447
+el salvador,2012,0.664
+san marino,2012,0.664
+somalia,2012,0.664
+serbia,2012,0.78
+south sudan,2012,0.397
+sao tome and principe,2012,0.562
+suriname,2012,0.731
+slovakia,2012,0.845
+slovenia,2012,0.891
+sweden,2012,0.911
+eswatini,2012,0.531
+seychelles,2012,0.786
+syrian arab republic,2012,0.65
+chad,2012,0.381
+togo,2012,0.491
+thailand,2012,0.746
+tajikistan,2012,0.643
+turkmenistan,2012,0.727
+timor-leste,2012,0.635
+tonga,2012,0.723
+trinidad and tobago,2012,0.8
+tunisia,2012,0.724
+turkey,2012,0.769
+tuvalu,2012,0.624
+tanzania,2012,0.504
+uganda,2012,0.504
+ukraine,2012,0.773
+uruguay,2012,0.798
+usa,2012,0.916
+uzbekistan,2012,0.687
+saint vincent and the grenadines,2012,0.737
+venezuela,2012,0.767
+viet nam,2012,0.672
+vanuatu,2012,0.59
+samoa,2012,0.709
+yemen,2012,0.512
+south africa,2012,0.696
+zambia,2012,0.548
+zimbabwe,2012,0.557
+afghanistan,2013,0.474
+angola,2013,0.552
+albania,2013,0.785
+andorra,2013,0.864
+united arab emirates,2013,0.852
+argentina,2013,0.845
+armenia,2013,0.76
+antigua and barbuda,2013,0.787
+australia,2013,0.929
+austria,2013,0.905
+azerbaijan,2013,0.741
+burundi,2013,0.421
+belgium,2013,0.916
+benin,2013,0.52
+burkina faso,2013,0.402
+bangladesh,2013,0.574
+bulgaria,2013,0.805
+bahrain,2013,0.824
+bahamas,2013,0.816
+bosnia and herzegovina,2013,0.751
+belarus,2013,0.808
+belize,2013,0.712
+bolivia,2013,0.682
+brazil,2013,0.75
+barbados,2013,0.787
+brunei,2013,0.838
+bhutan,2013,0.606
+botswana,2013,0.687
+central african republic,2013,0.368
+canada,2013,0.923
+switzerland,2013,0.948
+chile,2013,0.836
+china,2013,0.717
+ivory coast,2013,0.483
+cameroon,2013,0.542
+the democratic republic of the congo,2013,0.446
+congo,2013,0.58
+colombia,2013,0.746
+comoros,2013,0.539
+cabo verde,2013,0.666
+costa rica,2013,0.792
+cuba,2013,0.769
+cyprus,2013,0.861
+czechia,2013,0.881
+germany,2013,0.934
+djibouti,2013,0.483
+dominica,2013,0.699
+denmark,2013,0.933
+dominican republic,2013,0.722
+algeria,2013,0.731
+ecuador,2013,0.755
+egypt,2013,0.694
+eritrea,2013,0.483
+spain,2013,0.88
+estonia,2013,0.88
+ethiopia,2013,0.441
+finland,2013,0.926
+fiji,2013,0.726
+france,2013,0.887
+micronesia,2013,0.626
+gabon,2013,0.685
+uk,2013,0.922
+georgia,2013,0.777
+ghana,2013,0.6
+guinea,2013,0.429
+gambia,2013,0.471
+guinea-bissau,2013,0.46
+equatorial guinea,2013,0.594
+greece,2013,0.871
+grenada,2013,0.787
+guatemala,2013,0.62
+guyana,2013,0.673
+hong kong,2013,0.924
+honduras,2013,0.603
+croatia,2013,0.838
+haiti,2013,0.521
+hungary,2013,0.84
+indonesia,2013,0.683
+india,2013,0.607
+ireland,2013,0.908
+iran,2013,0.769
+iraq,2013,0.667
+iceland,2013,0.929
+israel,2013,0.904
+italy,2013,0.882
+jamaica,2013,0.714
+jordan,2013,0.719
+japan,2013,0.91
+kazakhstan,2013,0.792
+kenya,2013,0.554
+kyrgyzstan,2013,0.682
+cambodia,2013,0.562
+kiribati,2013,0.602
+saint kitts and nevis,2013,0.77
+south korea,2013,0.901
+kuwait,2013,0.819
+lao,2013,0.582
+lebanon,2013,0.759
+liberia,2013,0.475
+libya,2013,0.716
+saint lucia,2013,0.734
+liechtenstein,2013,0.922
+sri lanka,2013,0.756
+lesotho,2013,0.49
+lithuania,2013,0.854
+luxembourg,2013,0.921
+latvia,2013,0.843
+morocco,2013,0.635
+monaco,2013,0.635
+moldova,2013,0.746
+madagascar,2013,0.499
+maldives,2013,0.718
+mexico,2013,0.76
+marshall islands,2013,0.632
+north macedonia,2013,0.75
+mali,2013,0.407
+malta,2013,0.872
+myanmar,2013,0.543
+montenegro,2013,0.817
+mongolia,2013,0.726
+mozambique,2013,0.427
+mauritania,2013,0.531
+mauritius,2013,0.782
+malawi,2013,0.478
+malaysia,2013,0.785
+namibia,2013,0.611
+niger,2013,0.362
+nigeria,2013,0.506
+nicaragua,2013,0.634
+netherlands,2013,0.929
+norway,2013,0.949
+nepal,2013,0.57
+nauru,2013,0.57
+new zealand,2013,0.929
+oman,2013,0.809
+pakistan,2013,0.518
+panama,2013,0.79
+peru,2013,0.75
+philippines,2013,0.692
+palau,2013,0.779
+papua new guinea,2013,0.518
+poland,2013,0.863
+north korea,2013,0.863
+portugal,2013,0.845
+paraguay,2013,0.715
+"palestine, state of",2013,0.703
+qatar,2013,0.834
+romania,2013,0.81
+russian federation,2013,0.817
+rwanda,2013,0.508
+saudi arabia,2013,0.845
+sudan,2013,0.497
+senegal,2013,0.496
+singapore,2013,0.923
+solomon islands,2013,0.559
+sierra leone,2013,0.459
+el salvador,2013,0.667
+san marino,2013,0.667
+somalia,2013,0.667
+serbia,2013,0.785
+south sudan,2013,0.411
+sao tome and principe,2013,0.573
+suriname,2013,0.734
+slovakia,2013,0.848
+slovenia,2013,0.9
+sweden,2013,0.932
+eswatini,2013,0.546
+seychelles,2013,0.787
+syrian arab republic,2013,0.573
+chad,2013,0.386
+togo,2013,0.499
+thailand,2013,0.747
+tajikistan,2013,0.656
+turkmenistan,2013,0.73
+timor-leste,2013,0.63
+tonga,2013,0.725
+trinidad and tobago,2013,0.806
+tunisia,2013,0.727
+turkey,2013,0.799
+tuvalu,2013,0.628
+tanzania,2013,0.51
+uganda,2013,0.509
+ukraine,2013,0.773
+uruguay,2013,0.805
+usa,2013,0.917
+uzbekistan,2013,0.693
+saint vincent and the grenadines,2013,0.743
+venezuela,2013,0.774
+viet nam,2013,0.676
+vanuatu,2013,0.593
+samoa,2013,0.71
+yemen,2013,0.513
+south africa,2013,0.704
+zambia,2013,0.554
+zimbabwe,2013,0.567
+afghanistan,2014,0.479
+angola,2014,0.563
+albania,2014,0.792
+andorra,2014,0.871
+united arab emirates,2014,0.859
+argentina,2014,0.846
+armenia,2014,0.764
+antigua and barbuda,2014,0.789
+australia,2014,0.931
+austria,2014,0.909
+azerbaijan,2014,0.745
+burundi,2014,0.426
+belgium,2014,0.921
+benin,2014,0.524
+burkina faso,2014,0.408
+bangladesh,2014,0.583
+bulgaria,2014,0.807
+bahrain,2014,0.83
+bahamas,2014,0.82
+bosnia and herzegovina,2014,0.756
+belarus,2014,0.812
+belize,2014,0.709
+bolivia,2014,0.684
+brazil,2014,0.754
+barbados,2014,0.789
+brunei,2014,0.837
+bhutan,2014,0.617
+botswana,2014,0.696
+central african republic,2014,0.37
+canada,2014,0.925
+switzerland,2014,0.952
+chile,2014,0.841
+china,2014,0.725
+ivory coast,2014,0.502
+cameroon,2014,0.551
+the democratic republic of the congo,2014,0.455
+congo,2014,0.589
+colombia,2014,0.75
+comoros,2014,0.54
+cabo verde,2014,0.667
+costa rica,2014,0.796
+cuba,2014,0.771
+cyprus,2014,0.865
+czechia,2014,0.887
+germany,2014,0.937
+djibouti,2014,0.488
+dominica,2014,0.705
+denmark,2014,0.932
+dominican republic,2014,0.728
+algeria,2014,0.735
+ecuador,2014,0.76
+egypt,2014,0.699
+eritrea,2014,0.502
+spain,2014,0.884
+estonia,2014,0.879
+ethiopia,2014,0.45
+finland,2014,0.927
+fiji,2014,0.729
+france,2014,0.892
+micronesia,2014,0.625
+gabon,2014,0.694
+uk,2014,0.924
+georgia,2014,0.784
+ghana,2014,0.6
+guinea,2014,0.435
+gambia,2014,0.473
+guinea-bissau,2014,0.466
+equatorial guinea,2014,0.598
+greece,2014,0.879
+grenada,2014,0.787
+guatemala,2014,0.637
+guyana,2014,0.681
+hong kong,2014,0.93
+honduras,2014,0.606
+croatia,2014,0.841
+haiti,2014,0.525
+hungary,2014,0.838
+indonesia,2014,0.687
+india,2014,0.619
+ireland,2014,0.914
+iran,2014,0.773
+iraq,2014,0.67
+iceland,2014,0.938
+israel,2014,0.908
+italy,2014,0.883
+jamaica,2014,0.714
+jordan,2014,0.719
+japan,2014,0.914
+kazakhstan,2014,0.799
+kenya,2014,0.558
+kyrgyzstan,2014,0.688
+cambodia,2014,0.569
+kiribati,2014,0.61
+saint kitts and nevis,2014,0.772
+south korea,2014,0.906
+kuwait,2014,0.823
+lao,2014,0.592
+lebanon,2014,0.75
+liberia,2014,0.472
+libya,2014,0.699
+saint lucia,2014,0.735
+liechtenstein,2014,0.92
+sri lanka,2014,0.76
+lesotho,2014,0.496
+lithuania,2014,0.861
+luxembourg,2014,0.926
+latvia,2014,0.846
+morocco,2014,0.644
+monaco,2014,0.644
+moldova,2014,0.75
+madagascar,2014,0.502
+maldives,2014,0.728
+mexico,2014,0.764
+marshall islands,2014,0.633
+north macedonia,2014,0.755
+mali,2014,0.415
+malta,2014,0.881
+myanmar,2014,0.553
+montenegro,2014,0.819
+mongolia,2014,0.729
+mozambique,2014,0.433
+mauritania,2014,0.537
+mauritius,2014,0.793
+malawi,2014,0.487
+malaysia,2014,0.792
+namibia,2014,0.621
+niger,2014,0.37
+nigeria,2014,0.512
+nicaragua,2014,0.641
+netherlands,2014,0.931
+norway,2014,0.952
+nepal,2014,0.576
+nauru,2014,0.576
+new zealand,2014,0.93
+oman,2014,0.814
+pakistan,2014,0.527
+panama,2014,0.794
+peru,2014,0.755
+philippines,2014,0.696
+palau,2014,0.779
+papua new guinea,2014,0.533
+poland,2014,0.865
+north korea,2014,0.865
+portugal,2014,0.848
+paraguay,2014,0.716
+"palestine, state of",2014,0.698
+qatar,2014,0.839
+romania,2014,0.811
+russian federation,2014,0.818
+rwanda,2014,0.513
+saudi arabia,2014,0.852
+sudan,2014,0.504
+senegal,2014,0.502
+singapore,2014,0.928
+solomon islands,2014,0.558
+sierra leone,2014,0.461
+el salvador,2014,0.666
+san marino,2014,0.666
+somalia,2014,0.666
+serbia,2014,0.788
+south sudan,2014,0.41
+sao tome and principe,2014,0.584
+suriname,2014,0.736
+slovakia,2014,0.849
+slovenia,2014,0.902
+sweden,2014,0.935
+eswatini,2014,0.559
+seychelles,2014,0.796
+syrian arab republic,2014,0.553
+chad,2014,0.393
+togo,2014,0.505
+thailand,2014,0.778
+tajikistan,2014,0.656
+turkmenistan,2014,0.734
+timor-leste,2014,0.622
+tonga,2014,0.727
+trinidad and tobago,2014,0.809
+tunisia,2014,0.73
+turkey,2014,0.809
+tuvalu,2014,0.627
+tanzania,2014,0.515
+uganda,2014,0.512
+ukraine,2014,0.773
+uruguay,2014,0.808
+usa,2014,0.919
+uzbekistan,2014,0.698
+saint vincent and the grenadines,2014,0.752
+venezuela,2014,0.77
+viet nam,2014,0.68
+vanuatu,2014,0.595
+samoa,2014,0.711
+yemen,2014,0.505
+south africa,2014,0.712
+zambia,2014,0.557
+zimbabwe,2014,0.576
+afghanistan,2015,0.478
+angola,2015,0.582
+albania,2015,0.795
+andorra,2015,0.867
+united arab emirates,2015,0.865
+argentina,2015,0.848
+armenia,2015,0.766
+antigua and barbuda,2015,0.791
+australia,2015,0.933
+austria,2015,0.91
+azerbaijan,2015,0.748
+burundi,2015,0.428
+belgium,2015,0.924
+benin,2015,0.529
+burkina faso,2015,0.418
+bangladesh,2015,0.602
+bulgaria,2015,0.809
+bahrain,2015,0.858
+bahamas,2015,0.82
+bosnia and herzegovina,2015,0.761
+belarus,2015,0.812
+belize,2015,0.708
+bolivia,2015,0.69
+brazil,2015,0.753
+barbados,2015,0.791
+brunei,2015,0.836
+bhutan,2015,0.627
+botswana,2015,0.702
+central african republic,2015,0.384
+canada,2015,0.926
+switzerland,2015,0.954
+chile,2015,0.846
+china,2015,0.733
+ivory coast,2015,0.513
+cameroon,2015,0.56
+the democratic republic of the congo,2015,0.463
+congo,2015,0.59
+colombia,2015,0.754
+comoros,2015,0.544
+cabo verde,2015,0.663
+costa rica,2015,0.798
+cuba,2015,0.773
+cyprus,2015,0.871
+czechia,2015,0.891
+germany,2015,0.938
+djibouti,2015,0.493
+dominica,2015,0.7
+denmark,2015,0.936
+dominican republic,2015,0.736
+algeria,2015,0.74
+ecuador,2015,0.765
+egypt,2015,0.706
+eritrea,2015,0.483
+spain,2015,0.889
+estonia,2015,0.882
+ethiopia,2015,0.46
+finland,2015,0.93
+fiji,2015,0.729
+france,2015,0.892
+micronesia,2015,0.626
+gabon,2015,0.699
+uk,2015,0.924
+georgia,2015,0.79
+ghana,2015,0.607
+guinea,2015,0.44
+gambia,2015,0.478
+guinea-bissau,2015,0.472
+equatorial guinea,2015,0.603
+greece,2015,0.88
+grenada,2015,0.79
+guatemala,2015,0.639
+guyana,2015,0.684
+hong kong,2015,0.935
+honduras,2015,0.613
+croatia,2015,0.843
+haiti,2015,0.529
+hungary,2015,0.838
+indonesia,2015,0.695
+india,2015,0.629
+ireland,2015,0.925
+iran,2015,0.776
+iraq,2015,0.675
+iceland,2015,0.945
+israel,2015,0.909
+italy,2015,0.882
+jamaica,2015,0.713
+jordan,2015,0.718
+japan,2015,0.918
+kazakhstan,2015,0.805
+kenya,2015,0.561
+kyrgyzstan,2015,0.69
+cambodia,2015,0.574
+kiribati,2015,0.622
+saint kitts and nevis,2015,0.772
+south korea,2015,0.909
+kuwait,2015,0.83
+lao,2015,0.599
+lebanon,2015,0.746
+liberia,2015,0.473
+libya,2015,0.699
+saint lucia,2015,0.737
+liechtenstein,2015,0.924
+sri lanka,2015,0.764
+lesotho,2015,0.503
+lithuania,2015,0.862
+luxembourg,2015,0.915
+latvia,2015,0.85
+morocco,2015,0.654
+monaco,2015,0.654
+moldova,2015,0.749
+madagascar,2015,0.504
+maldives,2015,0.736
+mexico,2015,0.768
+marshall islands,2015,0.638
+north macedonia,2015,0.762
+mali,2015,0.416
+malta,2015,0.889
+myanmar,2015,0.562
+montenegro,2015,0.822
+mongolia,2015,0.732
+mozambique,2015,0.44
+mauritania,2015,0.544
+mauritius,2015,0.795
+malawi,2015,0.491
+malaysia,2015,0.797
+namibia,2015,0.628
+niger,2015,0.376
+nigeria,2015,0.516
+nicaragua,2015,0.647
+netherlands,2015,0.932
+norway,2015,0.953
+nepal,2015,0.579
+nauru,2015,0.579
+new zealand,2015,0.931
+oman,2015,0.823
+pakistan,2015,0.534
+panama,2015,0.8
+peru,2015,0.759
+philippines,2015,0.698
+palau,2015,0.78
+papua new guinea,2015,0.541
+poland,2015,0.868
+north korea,2015,0.868
+portugal,2015,0.85
+paraguay,2015,0.723
+"palestine, state of",2015,0.71
+qatar,2015,0.846
+romania,2015,0.813
+russian federation,2015,0.824
+rwanda,2015,0.515
+saudi arabia,2015,0.859
+sudan,2015,0.508
+senegal,2015,0.505
+singapore,2015,0.93
+solomon islands,2015,0.559
+sierra leone,2015,0.453
+el salvador,2015,0.668
+san marino,2015,0.668
+somalia,2015,0.668
+serbia,2015,0.794
+south sudan,2015,0.412
+sao tome and principe,2015,0.596
+suriname,2015,0.744
+slovakia,2015,0.851
+slovenia,2015,0.903
+sweden,2015,0.937
+eswatini,2015,0.575
+seychelles,2015,0.796
+syrian arab republic,2015,0.556
+chad,2015,0.389
+togo,2015,0.514
+thailand,2015,0.781
+tajikistan,2015,0.657
+turkmenistan,2015,0.74
+timor-leste,2015,0.614
+tonga,2015,0.73
+trinidad and tobago,2015,0.816
+tunisia,2015,0.733
+turkey,2015,0.817
+tuvalu,2015,0.643
+tanzania,2015,0.52
+uganda,2015,0.517
+ukraine,2015,0.774
+uruguay,2015,0.811
+usa,2015,0.92
+uzbekistan,2015,0.701
+saint vincent and the grenadines,2015,0.759
+venezuela,2015,0.767
+viet nam,2015,0.684
+vanuatu,2015,0.595
+samoa,2015,0.716
+yemen,2015,0.477
+south africa,2015,0.716
+zambia,2015,0.562
+zimbabwe,2015,0.582
+afghanistan,2016,0.481
+angola,2016,0.596
+albania,2016,0.798
+andorra,2016,0.871
+united arab emirates,2016,0.87
+argentina,2016,0.847
+armenia,2016,0.765
+antigua and barbuda,2016,0.794
+australia,2016,0.935
+austria,2016,0.915
+azerbaijan,2016,0.75
+burundi,2016,0.43
+belgium,2016,0.927
+benin,2016,0.53
+burkina faso,2016,0.427
+bangladesh,2016,0.612
+bulgaria,2016,0.809
+bahrain,2016,0.865
+bahamas,2016,0.823
+bosnia and herzegovina,2016,0.77
+belarus,2016,0.813
+belize,2016,0.712
+bolivia,2016,0.701
+brazil,2016,0.755
+barbados,2016,0.794
+brunei,2016,0.835
+bhutan,2016,0.638
+botswana,2016,0.713
+central african republic,2016,0.391
+canada,2016,0.928
+switzerland,2016,0.956
+chile,2016,0.85
+china,2016,0.74
+ivory coast,2016,0.524
+cameroon,2016,0.564
+the democratic republic of the congo,2016,0.472
+congo,2016,0.586
+colombia,2016,0.759
+comoros,2016,0.548
+cabo verde,2016,0.67
+costa rica,2016,0.803
+cuba,2016,0.774
+cyprus,2016,0.877
+czechia,2016,0.895
+germany,2016,0.941
+djibouti,2016,0.496
+dominica,2016,0.709
+denmark,2016,0.943
+dominican republic,2016,0.755
+algeria,2016,0.743
+ecuador,2016,0.762
+egypt,2016,0.713
+eritrea,2016,0.488
+spain,2016,0.895
+estonia,2016,0.885
+ethiopia,2016,0.47
+finland,2016,0.931
+fiji,2016,0.735
+france,2016,0.895
+micronesia,2016,0.629
+gabon,2016,0.702
+uk,2016,0.927
+georgia,2016,0.794
+ghana,2016,0.611
+guinea,2016,0.45
+gambia,2016,0.484
+guinea-bissau,2016,0.478
+equatorial guinea,2016,0.603
+greece,2016,0.877
+grenada,2016,0.791
+guatemala,2016,0.639
+guyana,2016,0.691
+hong kong,2016,0.938
+honduras,2016,0.618
+croatia,2016,0.848
+haiti,2016,0.532
+hungary,2016,0.843
+indonesia,2016,0.699
+india,2016,0.639
+ireland,2016,0.929
+iran,2016,0.786
+iraq,2016,0.679
+iceland,2016,0.948
+israel,2016,0.913
+italy,2016,0.887
+jamaica,2016,0.712
+jordan,2016,0.718
+japan,2016,0.921
+kazakhstan,2016,0.805
+kenya,2016,0.569
+kyrgyzstan,2016,0.693
+cambodia,2016,0.581
+kiribati,2016,0.617
+saint kitts and nevis,2016,0.779
+south korea,2016,0.912
+kuwait,2016,0.833
+lao,2016,0.604
+lebanon,2016,0.743
+liberia,2016,0.478
+libya,2016,0.696
+saint lucia,2016,0.744
+liechtenstein,2016,0.923
+sri lanka,2016,0.767
+lesotho,2016,0.514
+lithuania,2016,0.868
+luxembourg,2016,0.923
+latvia,2016,0.855
+morocco,2016,0.661
+monaco,2016,0.661
+moldova,2016,0.756
+madagascar,2016,0.505
+maldives,2016,0.741
+mexico,2016,0.772
+marshall islands,2016,0.637
+north macedonia,2016,0.767
+mali,2016,0.421
+malta,2016,0.891
+myanmar,2016,0.572
+montenegro,2016,0.824
+mongolia,2016,0.733
+mozambique,2016,0.443
+mauritania,2016,0.541
+mauritius,2016,0.801
+malawi,2016,0.498
+malaysia,2016,0.803
+namibia,2016,0.632
+niger,2016,0.383
+nigeria,2016,0.521
+nicaragua,2016,0.653
+netherlands,2016,0.933
+norway,2016,0.955
+nepal,2016,0.586
+nauru,2016,0.586
+new zealand,2016,0.934
+oman,2016,0.833
+pakistan,2016,0.541
+panama,2016,0.805
+peru,2016,0.765
+philippines,2016,0.7
+palau,2016,0.778
+papua new guinea,2016,0.547
+poland,2016,0.872
+north korea,2016,0.872
+portugal,2016,0.853
+paraguay,2016,0.721
+"palestine, state of",2016,0.715
+qatar,2016,0.85
+romania,2016,0.816
+russian federation,2016,0.828
+rwanda,2016,0.524
+saudi arabia,2016,0.864
+sudan,2016,0.511
+senegal,2016,0.507
+singapore,2016,0.934
+solomon islands,2016,0.56
+sierra leone,2016,0.457
+el salvador,2016,0.671
+san marino,2016,0.671
+somalia,2016,0.671
+serbia,2016,0.8
+south sudan,2016,0.402
+sao tome and principe,2016,0.603
+suriname,2016,0.747
+slovakia,2016,0.854
+slovenia,2016,0.91
+sweden,2016,0.939
+eswatini,2016,0.586
+seychelles,2016,0.796
+syrian arab republic,2016,0.56
+chad,2016,0.391
+togo,2016,0.518
+thailand,2016,0.785
+tajikistan,2016,0.66
+turkmenistan,2016,0.742
+timor-leste,2016,0.604
+tonga,2016,0.735
+trinidad and tobago,2016,0.815
+tunisia,2016,0.737
+turkey,2016,0.823
+tuvalu,2016,0.636
+tanzania,2016,0.524
+uganda,2016,0.519
+ukraine,2016,0.779
+uruguay,2016,0.815
+usa,2016,0.922
+uzbekistan,2016,0.709
+saint vincent and the grenadines,2016,0.765
+venezuela,2016,0.757
+viet nam,2016,0.688
+vanuatu,2016,0.596
+samoa,2016,0.717
+yemen,2016,0.467
+south africa,2016,0.719
+zambia,2016,0.564
+zimbabwe,2016,0.588
+afghanistan,2017,0.482
+angola,2017,0.597
+albania,2017,0.802
+andorra,2017,0.868
+united arab emirates,2017,0.897
+argentina,2017,0.851
+armenia,2017,0.768
+antigua and barbuda,2017,0.795
+australia,2017,0.937
+austria,2017,0.916
+azerbaijan,2017,0.753
+burundi,2017,0.428
+belgium,2017,0.931
+benin,2017,0.53
+burkina faso,2017,0.438
+bangladesh,2017,0.622
+bulgaria,2017,0.808
+bahrain,2017,0.869
+bahamas,2017,0.825
+bosnia and herzegovina,2017,0.772
+belarus,2017,0.817
+belize,2017,0.707
+bolivia,2017,0.708
+brazil,2017,0.759
+barbados,2017,0.796
+brunei,2017,0.834
+bhutan,2017,0.647
+botswana,2017,0.722
+central african republic,2017,0.398
+canada,2017,0.931
+switzerland,2017,0.957
+chile,2017,0.853
+china,2017,0.747
+ivory coast,2017,0.534
+cameroon,2017,0.571
+the democratic republic of the congo,2017,0.475
+congo,2017,0.58
+colombia,2017,0.761
+comoros,2017,0.553
+cabo verde,2017,0.675
+costa rica,2017,0.807
+cuba,2017,0.779
+cyprus,2017,0.887
+czechia,2017,0.897
+germany,2017,0.944
+djibouti,2017,0.499
+dominica,2017,0.692
+denmark,2017,0.944
+dominican republic,2017,0.757
+algeria,2017,0.744
+ecuador,2017,0.762
+egypt,2017,0.721
+eritrea,2017,0.484
+spain,2017,0.897
+estonia,2017,0.887
+ethiopia,2017,0.48
+finland,2017,0.934
+fiji,2017,0.741
+france,2017,0.898
+micronesia,2017,0.632
+gabon,2017,0.706
+uk,2017,0.93
+georgia,2017,0.8
+ghana,2017,0.616
+guinea,2017,0.458
+gambia,2017,0.489
+guinea-bissau,2017,0.481
+equatorial guinea,2017,0.601
+greece,2017,0.88
+grenada,2017,0.794
+guatemala,2017,0.64
+guyana,2017,0.695
+hong kong,2017,0.944
+honduras,2017,0.617
+croatia,2017,0.852
+haiti,2017,0.539
+hungary,2017,0.845
+indonesia,2017,0.704
+india,2017,0.644
+ireland,2017,0.934
+iran,2017,0.789
+iraq,2017,0.685
+iceland,2017,0.954
+israel,2017,0.917
+italy,2017,0.888
+jamaica,2017,0.715
+jordan,2017,0.718
+japan,2017,0.922
+kazakhstan,2017,0.811
+kenya,2017,0.572
+kyrgyzstan,2017,0.696
+cambodia,2017,0.586
+kiribati,2017,0.621
+saint kitts and nevis,2017,0.778
+south korea,2017,0.916
+kuwait,2017,0.835
+lao,2017,0.607
+lebanon,2017,0.75
+liberia,2017,0.481
+libya,2017,0.714
+saint lucia,2017,0.744
+liechtenstein,2017,0.933
+sri lanka,2017,0.771
+lesotho,2017,0.518
+lithuania,2017,0.876
+luxembourg,2017,0.919
+latvia,2017,0.86
+morocco,2017,0.67
+monaco,2017,0.67
+moldova,2017,0.765
+madagascar,2017,0.507
+maldives,2017,0.746
+mexico,2017,0.775
+marshall islands,2017,0.638
+north macedonia,2017,0.773
+mali,2017,0.426
+malta,2017,0.901
+myanmar,2017,0.58
+montenegro,2017,0.83
+mongolia,2017,0.732
+mozambique,2017,0.445
+mauritania,2017,0.545
+mauritius,2017,0.805
+malawi,2017,0.505
+malaysia,2017,0.805
+namibia,2017,0.635
+niger,2017,0.39
+nigeria,2017,0.526
+nicaragua,2017,0.659
+netherlands,2017,0.937
+norway,2017,0.959
+nepal,2017,0.594
+nauru,2017,0.594
+new zealand,2017,0.935
+oman,2017,0.831
+pakistan,2017,0.543
+panama,2017,0.811
+peru,2017,0.77
+philippines,2017,0.704
+palau,2017,0.775
+papua new guinea,2017,0.552
+poland,2017,0.875
+north korea,2017,0.875
+portugal,2017,0.859
+paraguay,2017,0.724
+"palestine, state of",2017,0.719
+qatar,2017,0.849
+romania,2017,0.823
+russian federation,2017,0.833
+rwanda,2017,0.526
+saudi arabia,2017,0.86
+sudan,2017,0.514
+senegal,2017,0.509
+singapore,2017,0.935
+solomon islands,2017,0.564
+sierra leone,2017,0.466
+el salvador,2017,0.674
+san marino,2017,0.674
+somalia,2017,0.674
+serbia,2017,0.802
+south sudan,2017,0.395
+sao tome and principe,2017,0.612
+suriname,2017,0.75
+slovakia,2017,0.856
+slovenia,2017,0.913
+sweden,2017,0.941
+eswatini,2017,0.596
+seychelles,2017,0.796
+syrian arab republic,2017,0.572
+chad,2017,0.393
+togo,2017,0.524
+thailand,2017,0.79
+tajikistan,2017,0.665
+turkmenistan,2017,0.741
+timor-leste,2017,0.606
+tonga,2017,0.74
+trinidad and tobago,2017,0.817
+tunisia,2017,0.74
+turkey,2017,0.833
+tuvalu,2017,0.634
+tanzania,2017,0.528
+uganda,2017,0.52
+ukraine,2017,0.782
+uruguay,2017,0.819
+usa,2017,0.924
+uzbekistan,2017,0.715
+saint vincent and the grenadines,2017,0.774
+venezuela,2017,0.744
+viet nam,2017,0.692
+vanuatu,2017,0.599
+samoa,2017,0.716
+yemen,2017,0.459
+south africa,2017,0.72
+zambia,2017,0.568
+zimbabwe,2017,0.594
+afghanistan,2018,0.483
+angola,2018,0.595
+albania,2018,0.806
+andorra,2018,0.872
+united arab emirates,2018,0.909
+argentina,2018,0.85
+armenia,2018,0.771
+antigua and barbuda,2018,0.798
+australia,2018,0.941
+austria,2018,0.917
+azerbaijan,2018,0.757
+burundi,2018,0.428
+belgium,2018,0.933
+benin,2018,0.53
+burkina faso,2018,0.449
+bangladesh,2018,0.635
+bulgaria,2018,0.809
+bahrain,2018,0.879
+bahamas,2018,0.827
+bosnia and herzegovina,2018,0.776
+belarus,2018,0.818
+belize,2018,0.706
+bolivia,2018,0.714
+brazil,2018,0.764
+barbados,2018,0.797
+brunei,2018,0.83
+bhutan,2018,0.658
+botswana,2018,0.716
+central african republic,2018,0.405
+canada,2018,0.933
+switzerland,2018,0.959
+chile,2018,0.856
+china,2018,0.755
+ivory coast,2018,0.542
+cameroon,2018,0.577
+the democratic republic of the congo,2018,0.48
+congo,2018,0.578
+colombia,2018,0.763
+comoros,2018,0.557
+cabo verde,2018,0.673
+costa rica,2018,0.811
+cuba,2018,0.783
+cyprus,2018,0.892
+czechia,2018,0.894
+germany,2018,0.945
+djibouti,2018,0.506
+dominica,2018,0.726
+denmark,2018,0.942
+dominican republic,2018,0.764
+algeria,2018,0.745
+ecuador,2018,0.762
+egypt,2018,0.729
+eritrea,2018,0.493
+spain,2018,0.901
+estonia,2018,0.891
+ethiopia,2018,0.489
+finland,2018,0.936
+fiji,2018,0.745
+france,2018,0.901
+micronesia,2018,0.633
+gabon,2018,0.706
+uk,2018,0.929
+georgia,2018,0.804
+ghana,2018,0.62
+guinea,2018,0.462
+gambia,2018,0.495
+guinea-bissau,2018,0.482
+equatorial guinea,2018,0.601
+greece,2018,0.886
+grenada,2018,0.797
+guatemala,2018,0.64
+guyana,2018,0.701
+hong kong,2018,0.949
+honduras,2018,0.617
+croatia,2018,0.856
+haiti,2018,0.541
+hungary,2018,0.849
+indonesia,2018,0.71
+india,2018,0.645
+ireland,2018,0.937
+iran,2018,0.787
+iraq,2018,0.692
+iceland,2018,0.959
+israel,2018,0.919
+italy,2018,0.893
+jamaica,2018,0.716
+jordan,2018,0.723
+japan,2018,0.923
+kazakhstan,2018,0.814
+kenya,2018,0.577
+kyrgyzstan,2018,0.698
+cambodia,2018,0.591
+kiribati,2018,0.622
+saint kitts and nevis,2018,0.779
+south korea,2018,0.919
+kuwait,2018,0.836
+lao,2018,0.607
+lebanon,2018,0.75
+liberia,2018,0.483
+libya,2018,0.722
+saint lucia,2018,0.746
+liechtenstein,2018,0.928
+sri lanka,2018,0.776
+lesotho,2018,0.522
+lithuania,2018,0.88
+luxembourg,2018,0.922
+latvia,2018,0.866
+morocco,2018,0.676
+monaco,2018,0.676
+moldova,2018,0.768
+madagascar,2018,0.507
+maldives,2018,0.75
+mexico,2018,0.777
+marshall islands,2018,0.639
+north macedonia,2018,0.779
+mali,2018,0.43
+malta,2018,0.91
+myanmar,2018,0.59
+montenegro,2018,0.834
+mongolia,2018,0.743
+mozambique,2018,0.451
+mauritania,2018,0.556
+mauritius,2018,0.811
+malawi,2018,0.51
+malaysia,2018,0.807
+namibia,2018,0.636
+niger,2018,0.399
+nigeria,2018,0.531
+nicaragua,2018,0.662
+netherlands,2018,0.939
+norway,2018,0.962
+nepal,2018,0.601
+nauru,2018,0.601
+new zealand,2018,0.936
+oman,2018,0.834
+pakistan,2018,0.545
+panama,2018,0.814
+peru,2018,0.776
+philippines,2018,0.71
+palau,2018,0.778
+papua new guinea,2018,0.554
+poland,2018,0.877
+north korea,2018,0.877
+portugal,2018,0.86
+paraguay,2018,0.727
+"palestine, state of",2018,0.723
+qatar,2018,0.853
+romania,2018,0.827
+russian federation,2018,0.841
+rwanda,2018,0.528
+saudi arabia,2018,0.865
+sudan,2018,0.514
+senegal,2018,0.512
+singapore,2018,0.94
+solomon islands,2018,0.566
+sierra leone,2018,0.47
+el salvador,2018,0.68
+san marino,2018,0.86
+somalia,2018,0.86
+serbia,2018,0.808
+south sudan,2018,0.395
+sao tome and principe,2018,0.617
+suriname,2018,0.755
+slovakia,2018,0.859
+slovenia,2018,0.917
+sweden,2018,0.942
+eswatini,2018,0.607
+seychelles,2018,0.8
+syrian arab republic,2018,0.58
+chad,2018,0.398
+togo,2018,0.528
+thailand,2018,0.795
+tajikistan,2018,0.671
+turkmenistan,2018,0.746
+timor-leste,2018,0.605
+tonga,2018,0.742
+trinidad and tobago,2018,0.815
+tunisia,2018,0.743
+turkey,2018,0.839
+tuvalu,2018,0.642
+tanzania,2018,0.538
+uganda,2018,0.522
+ukraine,2018,0.783
+uruguay,2018,0.819
+usa,2018,0.927
+uzbekistan,2018,0.72
+saint vincent and the grenadines,2018,0.775
+venezuela,2018,0.738
+viet nam,2018,0.697
+vanuatu,2018,0.603
+samoa,2018,0.716
+yemen,2018,0.459
+south africa,2018,0.726
+zambia,2018,0.572
+zimbabwe,2018,0.602
+afghanistan,2019,0.488
+angola,2019,0.595
+albania,2019,0.81
+andorra,2019,0.873
+united arab emirates,2019,0.92
+argentina,2019,0.852
+armenia,2019,0.778
+antigua and barbuda,2019,0.8
+australia,2019,0.941
+austria,2019,0.919
+azerbaijan,2019,0.761
+burundi,2019,0.431
+belgium,2019,0.936
+benin,2019,0.53
+burkina faso,2019,0.452
+bangladesh,2019,0.644
+bulgaria,2019,0.81
+bahrain,2019,0.882
+bahamas,2019,0.816
+bosnia and herzegovina,2019,0.783
+belarus,2019,0.817
+belize,2019,0.705
+bolivia,2019,0.717
+brazil,2019,0.766
+barbados,2019,0.799
+brunei,2019,0.83
+bhutan,2019,0.671
+botswana,2019,0.717
+central african republic,2019,0.411
+canada,2019,0.937
+switzerland,2019,0.962
+chile,2019,0.861
+china,2019,0.762
+ivory coast,2019,0.55
+cameroon,2019,0.583
+the democratic republic of the congo,2019,0.482
+congo,2019,0.57
+colombia,2019,0.768
+comoros,2019,0.56
+cabo verde,2019,0.676
+costa rica,2019,0.819
+cuba,2019,0.788
+cyprus,2019,0.897
+czechia,2019,0.897
+germany,2019,0.948
+djibouti,2019,0.512
+dominica,2019,0.729
+denmark,2019,0.946
+dominican republic,2019,0.771
+algeria,2019,0.748
+ecuador,2019,0.76
+egypt,2019,0.735
+eritrea,2019,0.495
+spain,2019,0.908
+estonia,2019,0.896
+ethiopia,2019,0.498
+finland,2019,0.939
+fiji,2019,0.746
+france,2019,0.905
+micronesia,2019,0.633
+gabon,2019,0.709
+uk,2019,0.935
+georgia,2019,0.81
+ghana,2019,0.631
+guinea,2019,0.467
+gambia,2019,0.503
+guinea-bissau,2019,0.49
+equatorial guinea,2019,0.605
+greece,2019,0.889
+grenada,2019,0.8
+guatemala,2019,0.642
+guyana,2019,0.708
+hong kong,2019,0.952
+honduras,2019,0.632
+croatia,2019,0.861
+haiti,2019,0.543
+hungary,2019,0.853
+indonesia,2019,0.716
+india,2019,0.645
+ireland,2019,0.942
+iran,2019,0.783
+iraq,2019,0.696
+iceland,2019,0.96
+israel,2019,0.921
+italy,2019,0.897
+jamaica,2019,0.719
+jordan,2019,0.727
+japan,2019,0.924
+kazakhstan,2019,0.819
+kenya,2019,0.581
+kyrgyzstan,2019,0.698
+cambodia,2019,0.598
+kiribati,2019,0.63
+saint kitts and nevis,2019,0.783
+south korea,2019,0.923
+kuwait,2019,0.839
+lao,2019,0.61
+lebanon,2019,0.745
+liberia,2019,0.484
+libya,2019,0.722
+saint lucia,2019,0.735
+liechtenstein,2019,0.94
+sri lanka,2019,0.778
+lesotho,2019,0.524
+lithuania,2019,0.884
+luxembourg,2019,0.927
+latvia,2019,0.871
+morocco,2019,0.682
+monaco,2019,0.682
+moldova,2019,0.774
+madagascar,2019,0.51
+maldives,2019,0.755
+mexico,2019,0.779
+marshall islands,2019,0.64
+north macedonia,2019,0.784
+mali,2019,0.433
+malta,2019,0.915
+myanmar,2019,0.598
+montenegro,2019,0.837
+mongolia,2019,0.746
+mozambique,2019,0.456
+mauritania,2019,0.563
+mauritius,2019,0.817
+malawi,2019,0.519
+malaysia,2019,0.81
+namibia,2019,0.639
+niger,2019,0.406
+nigeria,2019,0.538
+nicaragua,2019,0.664
+netherlands,2019,0.943
+norway,2019,0.961
+nepal,2019,0.611
+nauru,2019,0.611
+new zealand,2019,0.937
+oman,2019,0.839
+pakistan,2019,0.546
+panama,2019,0.817
+peru,2019,0.78
+philippines,2019,0.718
+palau,2019,0.776
+papua new guinea,2019,0.56
+poland,2019,0.881
+north korea,2019,0.881
+portugal,2019,0.867
+paraguay,2019,0.732
+"palestine, state of",2019,0.727
+qatar,2019,0.859
+romania,2019,0.832
+russian federation,2019,0.845
+rwanda,2019,0.534
+saudi arabia,2019,0.873
+sudan,2019,0.514
+senegal,2019,0.513
+singapore,2019,0.943
+solomon islands,2019,0.567
+sierra leone,2019,0.48
+el salvador,2019,0.683
+san marino,2019,0.862
+somalia,2019,0.862
+serbia,2019,0.811
+south sudan,2019,0.393
+sao tome and principe,2019,0.622
+suriname,2019,0.755
+slovakia,2019,0.862
+slovenia,2019,0.921
+sweden,2019,0.947
+eswatini,2019,0.615
+seychelles,2019,0.802
+syrian arab republic,2019,0.584
+chad,2019,0.403
+togo,2019,0.535
+thailand,2019,0.804
+tajikistan,2019,0.676
+turkmenistan,2019,0.742
+timor-leste,2019,0.614
+tonga,2019,0.744
+trinidad and tobago,2019,0.821
+tunisia,2019,0.745
+turkey,2019,0.842
+tuvalu,2019,0.635
+tanzania,2019,0.548
+uganda,2019,0.525
+ukraine,2019,0.786
+uruguay,2019,0.821
+usa,2019,0.93
+uzbekistan,2019,0.726
+saint vincent and the grenadines,2019,0.769
+venezuela,2019,0.721
+viet nam,2019,0.703
+vanuatu,2019,0.611
+samoa,2019,0.715
+yemen,2019,0.461
+south africa,2019,0.736
+zambia,2019,0.575
+zimbabwe,2019,0.601
